@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+1,Wireless Earbuds,Electronics,89.0
+2,USB-C Charger,Electronics,35.0
+3,Bluetooth Speaker,Electronics,120.0
+4,Power Bank,Electronics,65.0
+5,Smart Watch,Electronics,249.0
+6,Laptop Stand,Electronics,55.0
+7,Coffee Maker,Home,159.0
+8,Desk Lamp,Home,42.0
+9,Storage Box,Home,18.0
+10,Ceramic Mug Set,Home,28.0
+11,Wall Clock,Home,36.0
+12,Cushion,Home,22.0
+13,Olive Oil 1L,Grocery,19.5
+14,Harissa Jar,Grocery,4.8
+15,Dates Deglet Nour 1kg,Grocery,14.0
+16,Green Tea,Grocery,6.5
+17,Couscous 1kg,Grocery,3.9
+18,Honey 500g,Grocery,24.0
+19,Cotton T-Shirt,Fashion,29.0
+20,Jeans,Fashion,79.0
+21,Sneakers,Fashion,145.0
+22,Leather Belt,Fashion,39.0
+23,Backpack,Fashion,69.0
+24,Sunglasses,Fashion,55.0
+25,Argan Oil,Beauty,32.0
+26,Face Cream,Beauty,45.0
+27,Perfume 50ml,Beauty,110.0
+28,Shampoo,Beauty,12.5
+29,Lip Balm,Beauty,6.0
+30,Hair Dryer,Beauty,95.0

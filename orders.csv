@@ -1,0 +1,2501 @@
+order_id,order_date,customer_id,product_id,quantity,discount,payment_method,status
+11784,2025-01-01,201,25,3,0.1,D17,Delivered
+12010,2025-01-01,40,20,5,0.05,Card,Delivered
+10085,2025-01-01,101,30,4,0.0,Card,Cancelled
+11190,2025-01-02,279,17,6,0.05,D17,Delivered
+10777,2025-01-02,74,18,1,0.15,D17,Delivered
+11325,2025-01-02,128,9,8,0.0,Card,Delivered
+11305,2025-01-02,11,25,6,0.2,Card,Delivered
+11124,2025-01-02,251,14,2,0.15,Cash on Delivery,Delivered
+11638,2025-01-02,15,15,1,0.0,Bank Transfer,Cancelled
+10067,2025-01-02,134,10,6,0.0,Cash on Delivery,Delivered
+11183,2025-01-02,183,7,2,0.2,Cash on Delivery,Delivered
+10568,2025-01-02,30,29,3,0.05,Bank Transfer,Cancelled
+11118,2025-01-02,26,24,2,0.2,D17,Cancelled
+10751,2025-01-03,161,6,2,0.05,Card,Delivered
+12232,2025-01-03,241,21,4,0.0,Cash on Delivery,Delivered
+10977,2025-01-03,70,3,1,0.1,Card,Delivered
+11361,2025-01-04,29,16,1,0.0,Card,Delivered
+11443,2025-01-04,43,17,2,0.0,Cash on Delivery,Delivered
+11985,2025-01-04,41,14,6,0.0,Cash on Delivery,Delivered
+11552,2025-01-04,86,16,4,0.0,D17,Delivered
+10882,2025-01-05,163,13,1,0.2,Card,Cancelled
+12426,2025-01-05,296,14,1,0.2,Card,Delivered
+11541,2025-01-05,25,29,1,0.2,Card,Delivered
+10896,2025-01-06,287,15,6,0.2,Bank Transfer,Delivered
+10871,2025-01-06,135,15,1,0.0,Card,Delivered
+11855,2025-01-06,46,17,6,0.05,Bank Transfer,Delivered
+10171,2025-01-07,141,29,2,0.0,Card,Delivered
+10430,2025-01-07,227,2,1,0.0,Bank Transfer,Delivered
+11414,2025-01-07,280,15,8,0.0,Card,Delivered
+11297,2025-01-07,257,25,4,0.05,Card,Delivered
+12218,2025-01-07,268,14,2,0.2,D17,Delivered
+10837,2025-01-07,270,27,3,0.1,Card,Cancelled
+11150,2025-01-08,266,8,5,0.0,Cash on Delivery,Delivered
+10711,2025-01-08,50,17,3,0.2,Card,Delivered
+10743,2025-01-08,15,25,2,0.05,D17,Delivered
+10445,2025-01-08,91,14,6,0.05,Card,Delivered
+11440,2025-01-08,76,25,2,0.2,Card,Delivered
+12278,2025-01-09,250,23,4,0.0,Cash on Delivery,Delivered
+10776,2025-01-09,27,17,4,0.0,Cash on Delivery,Delivered
+12452,2025-01-09,300,16,2,0.0,Card,Cancelled
+11513,2025-01-09,147,16,8,0.0,Cash on Delivery,Cancelled
+11553,2025-01-09,275,29,8,0.0,Card,Delivered
+10358,2025-01-09,230,14,8,0.1,Card,Delivered
+10704,2025-01-09,191,15,5,0.1,Card,Cancelled
+10234,2025-01-09,144,16,8,0.0,Cash on Delivery,Delivered
+12469,2025-01-10,164,16,8,0.1,Cash on Delivery,Delivered
+11436,2025-01-10,297,21,1,0.15,Cash on Delivery,Delivered
+10816,2025-01-10,40,24,6,0.0,Card,Cancelled
+10148,2025-01-10,208,8,1,0.0,Card,Cancelled
+10600,2025-01-11,106,7,8,0.0,D17,Delivered
+11086,2025-01-11,147,8,1,0.0,Card,Delivered
+10310,2025-01-11,68,17,5,0.0,Cash on Delivery,Delivered
+10128,2025-01-11,203,16,5,0.15,Card,Delivered
+11133,2025-01-12,1,27,3,0.0,Cash on Delivery,Delivered
+11170,2025-01-12,117,24,8,0.15,D17,Delivered
+10705,2025-01-12,184,5,3,0.2,Bank Transfer,Delivered
+10560,2025-01-12,152,6,1,0.0,D17,Delivered
+11420,2025-01-12,264,21,4,0.0,Bank Transfer,Delivered
+10252,2025-01-12,5,1,4,0.15,D17,Delivered
+10325,2025-01-12,33,18,8,0.05,Card,Delivered
+11947,2025-01-13,113,8,5,0.15,D17,Delivered
+10902,2025-01-13,236,19,2,0.0,Card,Delivered
+10912,2025-01-13,59,22,1,0.1,Cash on Delivery,Delivered
+12325,2025-01-13,300,30,2,0.05,Card,Delivered
+10858,2025-01-13,97,25,4,0.1,Cash on Delivery,Delivered
+10890,2025-01-13,210,18,2,0.2,Card,Delivered
+10381,2025-01-13,214,11,4,0.15,Cash on Delivery,Delivered
+11298,2025-01-13,77,17,4,0.0,Cash on Delivery,Delivered
+10803,2025-01-13,113,17,2,0.0,Cash on Delivery,Delivered
+10364,2025-01-14,221,2,2,0.2,Cash on Delivery,Delivered
+10247,2025-01-14,27,2,6,0.0,Cash on Delivery,Delivered
+12159,2025-01-14,192,15,8,0.1,Cash on Delivery,Delivered
+10254,2025-01-14,56,26,1,0.1,Card,Cancelled
+11608,2025-01-14,147,10,1,0.0,Card,Delivered
+11828,2025-01-15,47,28,8,0.0,Bank Transfer,Delivered
+10979,2025-01-15,97,4,1,0.1,D17,Cancelled
+11153,2025-01-15,167,3,1,0.0,Bank Transfer,Delivered
+11886,2025-01-16,32,30,3,0.0,Cash on Delivery,Delivered
+11920,2025-01-16,58,20,3,0.2,Cash on Delivery,Delivered
+11178,2025-01-16,146,13,3,0.0,Cash on Delivery,Delivered
+12319,2025-01-16,10,14,8,0.05,Cash on Delivery,Returned
+10029,2025-01-16,176,10,6,0.0,D17,Delivered
+10376,2025-01-16,121,1,8,0.1,Card,Delivered
+12453,2025-01-16,201,21,4,0.0,D17,Delivered
+10192,2025-01-16,35,13,5,0.2,Cash on Delivery,Delivered
+10656,2025-01-17,169,7,1,0.1,Cash on Delivery,Delivered
+10304,2025-01-17,241,18,1,0.05,Cash on Delivery,Delivered
+11699,2025-01-17,139,12,5,0.05,Cash on Delivery,Delivered
+11034,2025-01-17,16,17,2,0.0,Cash on Delivery,Delivered
+11201,2025-01-17,272,15,1,0.0,Bank Transfer,Delivered
+10992,2025-01-17,105,3,2,0.15,Bank Transfer,Cancelled
+10854,2025-01-18,165,17,1,0.2,Card,Delivered
+11652,2025-01-18,215,22,8,0.2,Cash on Delivery,Delivered
+11807,2025-01-18,108,17,1,0.2,Card,Delivered
+11184,2025-01-18,162,11,8,0.05,Card,Delivered
+11815,2025-01-18,195,22,1,0.15,Cash on Delivery,Delivered
+10860,2025-01-19,38,1,1,0.2,Card,Delivered
+12289,2025-01-19,158,14,4,0.1,Cash on Delivery,Delivered
+11173,2025-01-19,223,9,5,0.15,Cash on Delivery,Delivered
+10229,2025-01-19,194,17,1,0.0,Cash on Delivery,Delivered
+12287,2025-01-19,178,17,3,0.15,Cash on Delivery,Delivered
+11023,2025-01-20,221,10,4,0.1,Card,Delivered
+11381,2025-01-20,205,6,3,0.0,Cash on Delivery,Delivered
+10121,2025-01-20,291,13,2,0.0,Card,Delivered
+11572,2025-01-20,64,17,6,0.0,Card,Delivered
+10616,2025-01-20,166,15,3,0.0,Cash on Delivery,Returned
+10888,2025-01-20,280,24,3,0.0,Cash on Delivery,Delivered
+11966,2025-01-20,232,13,2,0.15,Card,Delivered
+12269,2025-01-21,189,16,6,0.05,Cash on Delivery,Delivered
+11875,2025-01-21,39,19,4,0.2,Card,Delivered
+12043,2025-01-21,285,8,1,0.05,Cash on Delivery,Delivered
+11940,2025-01-21,123,3,8,0.05,D17,Delivered
+11205,2025-01-21,18,4,6,0.05,Cash on Delivery,Delivered
+10804,2025-01-22,78,12,3,0.1,Cash on Delivery,Delivered
+11814,2025-01-22,263,17,1,0.05,Cash on Delivery,Delivered
+10817,2025-01-22,217,2,1,0.05,Card,Delivered
+12052,2025-01-22,191,12,1,0.0,Card,Delivered
+11822,2025-01-23,266,22,4,0.2,Card,Cancelled
+11643,2025-01-23,187,15,1,0.1,Card,Delivered
+10144,2025-01-23,27,18,2,0.05,D17,Delivered
+12091,2025-01-23,237,23,1,0.0,Cash on Delivery,Delivered
+11612,2025-01-23,109,3,2,0.0,D17,Delivered
+12104,2025-01-24,297,18,3,0.0,Card,Delivered
+10822,2025-01-24,126,27,3,0.05,Card,Delivered
+10263,2025-01-24,287,22,3,0.15,Card,Delivered
+11445,2025-01-25,157,23,4,0.0,D17,Delivered
+10696,2025-01-25,243,15,1,0.05,Bank Transfer,Delivered
+10491,2025-01-25,111,12,5,0.1,Bank Transfer,Delivered
+10233,2025-01-25,131,26,4,0.0,Card,Delivered
+10423,2025-01-25,106,16,1,0.0,D17,Delivered
+11777,2025-01-26,29,16,8,0.2,D17,Delivered
+11078,2025-01-26,204,15,1,0.05,Cash on Delivery,Cancelled
+10100,2025-01-26,56,20,4,0.0,Card,Returned
+10327,2025-01-26,12,25,3,0.0,D17,Delivered
+10593,2025-01-26,299,18,6,0.15,Cash on Delivery,Delivered
+12132,2025-01-26,16,14,1,0.2,Card,Delivered
+11561,2025-01-26,165,5,6,0.2,Card,Delivered
+12500,2025-01-27,230,30,4,0.2,Cash on Delivery,Delivered
+11208,2025-01-27,53,16,4,0.0,D17,Delivered
+11281,2025-01-27,220,8,1,0.2,Cash on Delivery,Delivered
+10235,2025-01-28,183,18,2,0.2,Card,Delivered
+11996,2025-01-28,175,10,5,0.15,D17,Delivered
+11404,2025-01-28,264,18,2,0.15,Cash on Delivery,Delivered
+10648,2025-01-28,133,1,4,0.2,Cash on Delivery,Cancelled
+10734,2025-02-01,141,14,6,0.1,Cash on Delivery,Delivered
+12498,2025-02-01,7,3,1,0.05,Cash on Delivery,Delivered
+11750,2025-02-01,167,13,6,0.0,Cash on Delivery,Delivered
+12276,2025-02-01,187,24,8,0.0,Cash on Delivery,Delivered
+11854,2025-02-01,257,18,1,0.0,Card,Delivered
+11558,2025-02-01,47,20,1,0.0,D17,Delivered
+10838,2025-02-01,60,3,5,0.0,Cash on Delivery,Cancelled
+10955,2025-02-01,148,30,2,0.1,Bank Transfer,Delivered
+12062,2025-02-01,183,22,5,0.2,Bank Transfer,Delivered
+11321,2025-02-02,249,4,1,0.05,Bank Transfer,Delivered
+12008,2025-02-02,158,14,2,0.0,D17,Delivered
+11418,2025-02-02,286,16,1,0.05,Card,Delivered
+10741,2025-02-02,205,17,1,0.15,Card,Delivered
+11879,2025-02-02,68,22,1,0.15,Cash on Delivery,Delivered
+10619,2025-02-03,171,15,1,0.1,Card,Delivered
+10357,2025-02-03,36,12,1,0.0,Card,Delivered
+10088,2025-02-03,41,30,5,0.0,Cash on Delivery,Delivered
+11932,2025-02-04,178,19,1,0.15,Card,Delivered
+11234,2025-02-04,13,16,6,0.1,Bank Transfer,Cancelled
+10971,2025-02-04,7,6,6,0.05,Card,Delivered
+12282,2025-02-04,288,10,6,0.0,Cash on Delivery,Delivered
+12296,2025-02-04,151,16,6,0.15,Bank Transfer,Delivered
+11395,2025-02-04,117,4,3,0.15,Bank Transfer,Cancelled
+10181,2025-02-05,56,11,3,0.15,Cash on Delivery,Delivered
+11837,2025-02-05,275,2,3,0.0,Cash on Delivery,Delivered
+10511,2025-02-05,271,26,1,0.0,Bank Transfer,Delivered
+11084,2025-02-05,10,1,8,0.15,Cash on Delivery,Delivered
+10409,2025-02-05,158,16,6,0.1,Card,Delivered
+11615,2025-02-06,122,3,1,0.0,Card,Returned
+10533,2025-02-06,17,15,4,0.15,Card,Delivered
+10530,2025-02-06,258,29,2,0.1,Cash on Delivery,Delivered
+11427,2025-02-06,197,20,4,0.0,D17,Delivered
+11987,2025-02-06,210,3,5,0.0,Bank Transfer,Cancelled
+10299,2025-02-06,273,3,1,0.0,Cash on Delivery,Delivered
+10953,2025-02-06,240,2,5,0.0,D17,Delivered
+10746,2025-02-07,6,18,3,0.05,Card,Delivered
+10479,2025-02-07,82,10,1,0.05,Card,Delivered
+12473,2025-02-07,262,19,4,0.15,Cash on Delivery,Delivered
+10487,2025-02-07,33,5,1,0.1,Cash on Delivery,Delivered
+10596,2025-02-07,108,18,1,0.15,Card,Delivered
+10458,2025-02-07,154,20,3,0.2,D17,Cancelled
+11934,2025-02-07,158,10,4,0.0,Cash on Delivery,Delivered
+10750,2025-02-07,295,10,6,0.05,Card,Delivered
+11717,2025-02-08,188,11,1,0.0,Cash on Delivery,Cancelled
+11564,2025-02-08,283,15,8,0.0,D17,Delivered
+11700,2025-02-08,57,8,1,0.05,Card,Delivered
+12428,2025-02-08,282,25,4,0.0,Bank Transfer,Delivered
+11571,2025-02-09,38,6,8,0.0,Card,Delivered
+11924,2025-02-09,246,2,6,0.05,Card,Delivered
+12174,2025-02-09,215,19,1,0.0,Card,Delivered
+10340,2025-02-09,36,16,1,0.05,Card,Delivered
+12175,2025-02-09,187,9,6,0.0,Cash on Delivery,Delivered
+12476,2025-02-09,11,13,4,0.1,Card,Delivered
+11679,2025-02-09,124,3,8,0.1,Card,Delivered
+11098,2025-02-09,69,28,6,0.15,Card,Delivered
+11256,2025-02-10,44,17,5,0.2,Bank Transfer,Delivered
+12183,2025-02-10,271,4,3,0.05,D17,Delivered
+11544,2025-02-10,2,25,1,0.0,Card,Delivered
+11525,2025-02-11,63,3,2,0.0,Bank Transfer,Delivered
+10526,2025-02-11,91,12,4,0.2,Card,Delivered
+12138,2025-02-11,251,14,6,0.0,Card,Delivered
+12418,2025-02-11,149,25,1,0.0,Cash on Delivery,Cancelled
+10669,2025-02-11,45,8,3,0.2,Card,Delivered
+10576,2025-02-11,254,16,6,0.15,Cash on Delivery,Delivered
+12385,2025-02-12,197,29,8,0.0,Card,Delivered
+12123,2025-02-12,67,17,4,0.15,Card,Delivered
+11866,2025-02-12,218,20,1,0.1,Card,Delivered
+11737,2025-02-12,19,17,8,0.2,Bank Transfer,Cancelled
+12198,2025-02-12,121,8,5,0.0,Card,Delivered
+12425,2025-02-12,53,24,3,0.05,D17,Delivered
+10544,2025-02-12,23,18,8,0.05,Bank Transfer,Delivered
+11801,2025-02-12,167,5,8,0.0,Cash on Delivery,Delivered
+12215,2025-02-13,67,6,1,0.15,Cash on Delivery,Delivered
+10812,2025-02-13,62,18,2,0.0,Cash on Delivery,Delivered
+10193,2025-02-13,271,17,6,0.1,Cash on Delivery,Delivered
+10072,2025-02-13,129,12,4,0.0,Cash on Delivery,Delivered
+11805,2025-02-13,257,18,1,0.05,Cash on Delivery,Delivered
+10587,2025-02-13,153,18,8,0.0,Cash on Delivery,Delivered
+10200,2025-02-13,249,8,8,0.0,Cash on Delivery,Delivered
+11670,2025-02-13,53,24,1,0.0,Card,Delivered
+11392,2025-02-14,296,17,6,0.2,Card,Delivered
+11390,2025-02-14,277,5,4,0.0,Card,Delivered
+12441,2025-02-14,87,17,8,0.15,Card,Delivered
+10975,2025-02-14,291,28,5,0.1,D17,Delivered
+11199,2025-02-14,76,28,2,0.15,D17,Delivered
+10518,2025-02-14,153,16,2,0.1,Cash on Delivery,Delivered
+12318,2025-02-15,189,27,2,0.2,Card,Delivered
+10546,2025-02-15,58,15,1,0.0,Card,Delivered
+10626,2025-02-15,174,17,6,0.2,Card,Delivered
+10086,2025-02-15,100,8,6,0.0,Cash on Delivery,Delivered
+10952,2025-02-15,288,17,2,0.05,Cash on Delivery,Delivered
+10650,2025-02-15,280,2,2,0.0,D17,Delivered
+10935,2025-02-15,194,15,3,0.15,Cash on Delivery,Delivered
+10965,2025-02-15,280,23,2,0.2,Cash on Delivery,Delivered
+11958,2025-02-16,16,17,1,0.0,Card,Returned
+10446,2025-02-16,49,2,1,0.1,Cash on Delivery,Delivered
+12037,2025-02-16,177,10,1,0.15,Cash on Delivery,Delivered
+10344,2025-02-16,89,29,4,0.0,Card,Returned
+10951,2025-02-17,43,24,8,0.0,Card,Cancelled
+10048,2025-02-17,23,23,8,0.0,Cash on Delivery,Delivered
+10980,2025-02-17,95,29,2,0.0,Cash on Delivery,Delivered
+11413,2025-02-17,286,4,2,0.05,Card,Delivered
+10150,2025-02-17,68,13,1,0.05,Cash on Delivery,Delivered
+10936,2025-02-18,38,30,8,0.0,Card,Delivered
+12199,2025-02-18,268,1,8,0.0,Card,Cancelled
+10328,2025-02-19,206,2,3,0.1,Cash on Delivery,Delivered
+12178,2025-02-19,133,18,1,0.0,Cash on Delivery,Delivered
+11302,2025-02-19,225,9,5,0.05,Card,Delivered
+12280,2025-02-20,176,25,1,0.15,Card,Delivered
+10134,2025-02-20,26,13,8,0.15,D17,Delivered
+11112,2025-02-20,99,15,2,0.0,Cash on Delivery,Delivered
+10503,2025-02-20,119,15,2,0.2,Cash on Delivery,Delivered
+10688,2025-02-20,48,19,5,0.0,Bank Transfer,Delivered
+10501,2025-02-20,144,30,8,0.15,Card,Delivered
+10889,2025-02-21,188,18,2,0.0,Card,Delivered
+10420,2025-02-21,130,12,3,0.1,Cash on Delivery,Delivered
+11257,2025-02-21,211,16,2,0.2,Card,Delivered
+11483,2025-02-21,189,12,1,0.05,Cash on Delivery,Delivered
+10130,2025-02-21,171,9,1,0.05,Card,Delivered
+10034,2025-02-21,59,11,3,0.15,Card,Delivered
+10123,2025-02-21,167,29,6,0.05,Bank Transfer,Delivered
+10117,2025-02-22,117,25,4,0.0,Cash on Delivery,Delivered
+11588,2025-02-22,213,23,4,0.0,Card,Delivered
+11744,2025-02-22,53,3,2,0.0,Cash on Delivery,Delivered
+11627,2025-02-22,285,16,2,0.2,Bank Transfer,Delivered
+11280,2025-02-22,168,16,1,0.15,Card,Cancelled
+12118,2025-02-22,252,17,1,0.0,D17,Delivered
+11403,2025-02-23,203,13,4,0.05,Card,Delivered
+12358,2025-02-23,285,11,1,0.1,D17,Cancelled
+11480,2025-02-23,286,4,6,0.15,Card,Delivered
+11689,2025-02-23,263,9,1,0.0,Cash on Delivery,Cancelled
+11752,2025-02-24,258,8,5,0.2,D17,Delivered
+11665,2025-02-24,46,28,5,0.0,Bank Transfer,Delivered
+12486,2025-02-24,41,3,1,0.0,D17,Delivered
+11177,2025-02-24,69,23,5,0.0,Cash on Delivery,Delivered
+12151,2025-02-24,157,9,2,0.15,D17,Delivered
+11960,2025-02-25,281,24,6,0.0,D17,Delivered
+10849,2025-02-25,288,17,1,0.1,Card,Delivered
+10760,2025-02-25,256,10,1,0.15,Card,Delivered
+10694,2025-02-25,185,13,1,0.05,Card,Delivered
+12207,2025-02-26,7,21,1,0.0,D17,Delivered
+11437,2025-02-27,51,1,1,0.0,Cash on Delivery,Delivered
+11617,2025-02-28,130,12,1,0.1,Card,Delivered
+12187,2025-02-28,175,15,4,0.1,Card,Delivered
+11243,2025-02-28,260,17,2,0.15,Card,Delivered
+12285,2025-02-28,205,15,2,0.2,Cash on Delivery,Delivered
+12030,2025-03-01,44,17,1,0.2,Card,Cancelled
+12050,2025-03-01,115,14,5,0.0,Bank Transfer,Delivered
+12444,2025-03-01,153,30,3,0.1,Cash on Delivery,Delivered
+10613,2025-03-01,112,14,5,0.05,Card,Delivered
+12394,2025-03-01,217,1,1,0.1,Cash on Delivery,Cancelled
+11315,2025-03-01,180,16,1,0.0,Card,Delivered
+11950,2025-03-02,291,10,3,0.2,Card,Delivered
+10887,2025-03-02,181,24,2,0.15,Card,Delivered
+12484,2025-03-02,137,8,3,0.05,Cash on Delivery,Delivered
+10538,2025-03-02,175,4,6,0.05,Bank Transfer,Delivered
+11683,2025-03-02,158,16,1,0.2,D17,Delivered
+10994,2025-03-02,3,27,3,0.15,Cash on Delivery,Delivered
+11108,2025-03-02,252,6,3,0.1,Cash on Delivery,Delivered
+10230,2025-03-03,123,30,1,0.0,Cash on Delivery,Delivered
+12227,2025-03-03,1,12,1,0.0,Card,Delivered
+10463,2025-03-03,145,15,3,0.1,D17,Returned
+10655,2025-03-03,119,13,3,0.05,Cash on Delivery,Delivered
+10598,2025-03-03,222,5,2,0.1,Cash on Delivery,Delivered
+11352,2025-03-03,284,4,5,0.0,Bank Transfer,Delivered
+12029,2025-03-03,198,18,3,0.05,Cash on Delivery,Delivered
+11765,2025-03-03,173,13,6,0.15,Bank Transfer,Delivered
+10932,2025-03-04,266,16,2,0.05,D17,Delivered
+11307,2025-03-04,173,2,5,0.0,Cash on Delivery,Delivered
+10425,2025-03-04,300,18,4,0.15,Cash on Delivery,Delivered
+12041,2025-03-04,4,6,6,0.15,Cash on Delivery,Delivered
+11830,2025-03-04,138,17,1,0.15,D17,Delivered
+11897,2025-03-04,236,17,1,0.0,Cash on Delivery,Delivered
+12267,2025-03-04,53,12,5,0.1,Cash on Delivery,Delivered
+11637,2025-03-04,247,13,3,0.15,Card,Delivered
+11341,2025-03-04,115,5,8,0.15,Bank Transfer,Delivered
+11131,2025-03-04,164,3,4,0.1,D17,Delivered
+11600,2025-03-04,49,16,1,0.05,Card,Delivered
+11308,2025-03-04,19,16,5,0.05,D17,Delivered
+10851,2025-03-05,191,1,8,0.0,Card,Delivered
+10715,2025-03-05,129,28,5,0.0,Card,Delivered
+10136,2025-03-05,73,11,4,0.15,Card,Cancelled
+11489,2025-03-05,199,20,6,0.0,Card,Delivered
+10522,2025-03-06,18,5,4,0.0,D17,Delivered
+11705,2025-03-06,131,12,5,0.0,Card,Returned
+11210,2025-03-06,163,6,2,0.0,Cash on Delivery,Delivered
+10908,2025-03-06,15,17,2,0.2,Cash on Delivery,Delivered
+11871,2025-03-06,119,17,3,0.0,Cash on Delivery,Delivered
+11344,2025-03-07,19,15,6,0.15,Card,Delivered
+11197,2025-03-07,124,26,2,0.0,Cash on Delivery,Delivered
+10781,2025-03-07,273,5,6,0.1,Cash on Delivery,Delivered
+12246,2025-03-07,147,16,6,0.0,Card,Delivered
+12291,2025-03-07,51,1,8,0.15,Cash on Delivery,Cancelled
+11804,2025-03-07,1,20,6,0.0,D17,Cancelled
+12244,2025-03-07,34,15,1,0.0,Card,Delivered
+10919,2025-03-08,210,13,5,0.0,D17,Delivered
+12066,2025-03-08,112,11,2,0.1,Cash on Delivery,Delivered
+10622,2025-03-08,43,26,6,0.0,Card,Delivered
+12445,2025-03-09,161,27,1,0.0,Card,Delivered
+12134,2025-03-09,133,14,6,0.2,D17,Delivered
+11680,2025-03-09,56,16,2,0.0,Card,Returned
+12219,2025-03-09,193,21,3,0.2,Cash on Delivery,Delivered
+10706,2025-03-09,143,15,4,0.2,D17,Delivered
+10141,2025-03-09,156,29,6,0.15,Cash on Delivery,Delivered
+11467,2025-03-09,166,14,4,0.05,Bank Transfer,Delivered
+10151,2025-03-10,41,18,5,0.0,Cash on Delivery,Cancelled
+10881,2025-03-10,138,15,2,0.0,Cash on Delivery,Delivered
+12481,2025-03-10,45,25,6,0.2,Card,Delivered
+10222,2025-03-10,12,18,4,0.0,Cash on Delivery,Delivered
+10640,2025-03-10,253,17,8,0.0,Cash on Delivery,Cancelled
+11212,2025-03-10,150,14,4,0.0,Cash on Delivery,Delivered
+11012,2025-03-10,223,19,3,0.2,Cash on Delivery,Delivered
+10989,2025-03-11,155,16,1,0.0,Card,Delivered
+12274,2025-03-11,54,16,5,0.0,Cash on Delivery,Delivered
+11531,2025-03-11,79,13,4,0.0,Card,Delivered
+11781,2025-03-12,202,21,2,0.2,Cash on Delivery,Delivered
+10468,2025-03-12,164,6,2,0.1,Cash on Delivery,Delivered
+10577,2025-03-12,198,4,1,0.0,D17,Delivered
+10205,2025-03-12,215,12,4,0.1,Cash on Delivery,Delivered
+11378,2025-03-12,86,20,1,0.0,Cash on Delivery,Delivered
+10347,2025-03-12,6,13,3,0.15,Cash on Delivery,Cancelled
+11076,2025-03-13,285,5,3,0.1,Bank Transfer,Delivered
+10009,2025-03-13,32,12,1,0.1,Cash on Delivery,Delivered
+11574,2025-03-13,166,28,2,0.0,Cash on Delivery,Delivered
+11743,2025-03-13,173,8,2,0.05,Cash on Delivery,Delivered
+12480,2025-03-13,187,26,5,0.0,Cash on Delivery,Delivered
+12205,2025-03-13,42,2,2,0.2,Cash on Delivery,Delivered
+11223,2025-03-13,86,9,8,0.0,D17,Delivered
+10170,2025-03-13,287,3,1,0.0,Card,Delivered
+11951,2025-03-13,79,30,4,0.0,Cash on Delivery,Delivered
+10216,2025-03-13,1,12,3,0.05,Card,Delivered
+10628,2025-03-13,297,13,6,0.2,Card,Delivered
+11893,2025-03-14,274,10,2,0.2,Card,Cancelled
+10679,2025-03-14,39,25,1,0.0,Bank Transfer,Delivered
+12475,2025-03-14,3,8,5,0.15,Cash on Delivery,Delivered
+11762,2025-03-14,116,25,3,0.05,Card,Delivered
+10335,2025-03-14,291,2,3,0.0,Card,Delivered
+11227,2025-03-15,51,16,2,0.2,Cash on Delivery,Delivered
+10309,2025-03-15,232,1,1,0.05,Cash on Delivery,Delivered
+10385,2025-03-15,271,25,1,0.0,Bank Transfer,Delivered
+10386,2025-03-15,14,1,6,0.0,Cash on Delivery,Delivered
+10154,2025-03-15,193,17,6,0.2,Card,Delivered
+10363,2025-03-15,63,23,3,0.05,Cash on Delivery,Delivered
+11861,2025-03-16,12,16,1,0.0,Card,Delivered
+12422,2025-03-16,79,27,8,0.05,Cash on Delivery,Delivered
+12129,2025-03-16,201,11,1,0.0,Card,Delivered
+11283,2025-03-16,41,17,6,0.0,Card,Delivered
+10798,2025-03-16,266,21,2,0.0,Cash on Delivery,Delivered
+11636,2025-03-16,94,3,6,0.0,Card,Delivered
+10735,2025-03-16,217,9,1,0.05,Bank Transfer,Delivered
+10969,2025-03-16,197,22,6,0.0,Card,Delivered
+11358,2025-03-16,250,27,6,0.0,Cash on Delivery,Delivered
+12197,2025-03-16,180,19,1,0.1,Cash on Delivery,Delivered
+11923,2025-03-17,60,21,1,0.0,Card,Delivered
+10337,2025-03-17,42,18,1,0.1,Cash on Delivery,Returned
+10724,2025-03-17,282,30,6,0.0,Card,Delivered
+10725,2025-03-17,138,10,4,0.0,Cash on Delivery,Delivered
+10248,2025-03-17,111,5,6,0.0,Bank Transfer,Delivered
+12357,2025-03-17,145,18,3,0.2,Cash on Delivery,Delivered
+10556,2025-03-18,264,19,1,0.05,Card,Delivered
+12202,2025-03-18,132,19,1,0.05,Card,Delivered
+11840,2025-03-18,113,18,6,0.0,Cash on Delivery,Returned
+10307,2025-03-18,208,10,1,0.0,Card,Cancelled
+11715,2025-03-18,252,18,3,0.0,Cash on Delivery,Delivered
+10075,2025-03-18,209,18,1,0.0,Card,Delivered
+11731,2025-03-18,91,13,5,0.0,Card,Delivered
+12228,2025-03-18,5,18,6,0.0,Cash on Delivery,Delivered
+11582,2025-03-19,231,27,1,0.05,D17,Delivered
+12137,2025-03-19,259,21,3,0.0,Card,Delivered
+12299,2025-03-19,124,15,2,0.2,D17,Delivered
+11037,2025-03-19,110,27,4,0.0,Cash on Delivery,Delivered
+11407,2025-03-19,213,25,1,0.15,Cash on Delivery,Delivered
+12065,2025-03-19,208,10,4,0.0,Bank Transfer,Delivered
+11860,2025-03-19,17,17,1,0.0,Card,Delivered
+11794,2025-03-19,134,26,1,0.0,Card,Delivered
+12155,2025-03-20,62,28,8,0.05,Card,Delivered
+12165,2025-03-20,169,19,6,0.05,D17,Delivered
+10654,2025-03-20,278,18,1,0.0,Cash on Delivery,Delivered
+10778,2025-03-20,171,11,1,0.05,Bank Transfer,Delivered
+12033,2025-03-20,276,27,2,0.05,Cash on Delivery,Delivered
+11209,2025-03-20,207,8,3,0.0,Card,Cancelled
+11566,2025-03-21,130,15,8,0.1,Bank Transfer,Delivered
+12377,2025-03-21,222,14,1,0.0,Card,Delivered
+11230,2025-03-21,260,24,2,0.0,Cash on Delivery,Returned
+10122,2025-03-21,127,1,1,0.0,D17,Delivered
+10399,2025-03-21,125,16,3,0.15,Card,Delivered
+11356,2025-03-21,177,25,1,0.05,Card,Cancelled
+10413,2025-03-21,5,11,5,0.2,Card,Delivered
+11764,2025-03-21,227,18,1,0.2,D17,Delivered
+12360,2025-03-21,22,28,4,0.1,Bank Transfer,Delivered
+10077,2025-03-21,96,20,8,0.15,Card,Delivered
+11590,2025-03-21,108,14,6,0.1,Cash on Delivery,Delivered
+12214,2025-03-22,132,28,6,0.0,Cash on Delivery,Delivered
+10466,2025-03-22,230,13,6,0.05,Cash on Delivery,Delivered
+12035,2025-03-22,137,14,1,0.05,D17,Delivered
+11829,2025-03-22,248,19,2,0.0,D17,Delivered
+11766,2025-03-22,173,23,1,0.1,Cash on Delivery,Delivered
+11313,2025-03-23,269,29,2,0.05,Card,Cancelled
+11439,2025-03-23,168,18,2,0.0,Cash on Delivery,Delivered
+10060,2025-03-23,15,13,3,0.15,Bank Transfer,Delivered
+10472,2025-03-23,20,16,2,0.0,Cash on Delivery,Cancelled
+11279,2025-03-23,50,14,3,0.0,Bank Transfer,Delivered
+10062,2025-03-23,33,22,8,0.15,Card,Cancelled
+10892,2025-03-23,261,8,2,0.0,Cash on Delivery,Delivered
+11269,2025-03-24,197,6,2,0.0,D17,Delivered
+11387,2025-03-24,26,16,2,0.0,Cash on Delivery,Delivered
+11226,2025-03-24,166,16,5,0.2,Cash on Delivery,Delivered
+10287,2025-03-24,289,10,5,0.1,Card,Delivered
+11292,2025-03-24,64,11,6,0.1,Card,Delivered
+10266,2025-03-24,104,27,3,0.05,D17,Cancelled
+12069,2025-03-24,260,18,8,0.15,Cash on Delivery,Delivered
+12209,2025-03-24,125,25,6,0.05,Cash on Delivery,Delivered
+10691,2025-03-24,215,5,6,0.2,Cash on Delivery,Delivered
+11632,2025-03-25,19,18,4,0.1,D17,Delivered
+11024,2025-03-25,73,13,2,0.05,Card,Returned
+10106,2025-03-25,205,8,1,0.0,Cash on Delivery,Delivered
+10627,2025-03-25,188,18,6,0.15,Card,Delivered
+10213,2025-03-25,293,15,3,0.05,Cash on Delivery,Delivered
+11377,2025-03-25,217,4,4,0.05,Cash on Delivery,Delivered
+11479,2025-03-25,44,9,1,0.0,Cash on Delivery,Delivered
+11329,2025-03-25,172,18,4,0.0,D17,Delivered
+12186,2025-03-26,59,12,3,0.2,Card,Delivered
+12450,2025-03-26,26,17,1,0.0,Cash on Delivery,Delivered
+11448,2025-03-26,188,14,3,0.0,Card,Delivered
+11883,2025-03-26,156,15,4,0.05,D17,Delivered
+10375,2025-03-26,51,3,2,0.0,Card,Delivered
+11160,2025-03-26,272,23,8,0.1,Cash on Delivery,Delivered
+11818,2025-03-27,48,7,3,0.0,Card,Delivered
+10492,2025-03-27,109,23,3,0.0,Card,Delivered
+10038,2025-03-27,30,20,1,0.1,D17,Delivered
+12485,2025-03-27,180,18,6,0.05,Cash on Delivery,Delivered
+11426,2025-03-27,248,11,3,0.15,Card,Delivered
+12156,2025-03-27,168,28,1,0.0,Cash on Delivery,Delivered
+11780,2025-03-27,249,19,1,0.05,Bank Transfer,Delivered
+10883,2025-03-27,133,21,2,0.0,Cash on Delivery,Delivered
+10240,2025-03-27,182,14,6,0.0,Card,Delivered
+11490,2025-03-28,20,3,2,0.0,Cash on Delivery,Delivered
+11101,2025-03-28,32,1,3,0.1,Card,Delivered
+10937,2025-03-28,95,16,2,0.0,Card,Cancelled
+10368,2025-03-28,72,14,2,0.0,Card,Cancelled
+10010,2025-04-01,206,14,3,0.0,Card,Cancelled
+11106,2025-04-01,21,15,3,0.0,Card,Delivered
+10954,2025-04-01,205,14,6,0.0,Bank Transfer,Delivered
+11633,2025-04-01,188,23,1,0.0,D17,Delivered
+10379,2025-04-01,116,21,4,0.0,Card,Delivered
+11876,2025-04-01,78,25,1,0.05,Card,Delivered
+12350,2025-04-02,168,30,5,0.0,Cash on Delivery,Returned
+10276,2025-04-02,167,18,2,0.2,Cash on Delivery,Cancelled
+10265,2025-04-02,247,4,3,0.05,Card,Delivered
+12305,2025-04-02,285,20,2,0.1,Cash on Delivery,Delivered
+10605,2025-04-02,92,18,2,0.0,Cash on Delivery,Delivered
+10236,2025-04-02,244,10,1,0.0,Cash on Delivery,Delivered
+11841,2025-04-02,89,26,1,0.05,Card,Delivered
+11061,2025-04-02,178,1,2,0.0,D17,Delivered
+10139,2025-04-02,279,18,1,0.15,Card,Delivered
+11914,2025-04-02,17,23,4,0.0,Card,Delivered
+11773,2025-04-03,209,21,1,0.05,Bank Transfer,Delivered
+10322,2025-04-03,129,6,1,0.1,Card,Delivered
+10873,2025-04-04,272,19,2,0.0,Cash on Delivery,Delivered
+11538,2025-04-04,248,29,1,0.15,D17,Delivered
+10298,2025-04-04,86,26,3,0.2,Card,Delivered
+10842,2025-04-04,169,15,8,0.0,Cash on Delivery,Delivered
+11793,2025-04-04,267,28,6,0.1,Card,Returned
+11192,2025-04-04,276,1,8,0.05,Cash on Delivery,Delivered
+12458,2025-04-04,273,3,1,0.0,Cash on Delivery,Delivered
+12496,2025-04-05,224,23,6,0.0,Cash on Delivery,Delivered
+11304,2025-04-05,185,27,8,0.0,Cash on Delivery,Delivered
+12120,2025-04-05,146,20,1,0.15,Cash on Delivery,Returned
+10866,2025-04-05,198,17,1,0.0,Card,Delivered
+11522,2025-04-05,255,17,1,0.0,Card,Delivered
+11998,2025-04-05,3,13,4,0.0,Cash on Delivery,Delivered
+11570,2025-04-05,82,30,1,0.1,Card,Delivered
+10047,2025-04-05,61,15,2,0.05,Cash on Delivery,Delivered
+10670,2025-04-06,269,20,2,0.05,Card,Delivered
+11669,2025-04-06,199,17,2,0.05,Card,Delivered
+12400,2025-04-06,67,27,8,0.05,Card,Cancelled
+11015,2025-04-06,204,15,1,0.0,Cash on Delivery,Delivered
+11048,2025-04-06,63,19,1,0.15,Cash on Delivery,Delivered
+11849,2025-04-06,250,25,1,0.0,Card,Delivered
+11410,2025-04-06,1,18,1,0.05,Cash on Delivery,Delivered
+11442,2025-04-06,225,11,4,0.0,Card,Cancelled
+10145,2025-04-07,258,23,2,0.1,Card,Delivered
+11554,2025-04-07,73,26,6,0.05,Cash on Delivery,Delivered
+11641,2025-04-07,164,21,1,0.1,Bank Transfer,Delivered
+10338,2025-04-07,120,2,4,0.2,Card,Delivered
+10793,2025-04-07,54,17,5,0.05,Card,Delivered
+11823,2025-04-07,251,13,1,0.2,Cash on Delivery,Delivered
+10532,2025-04-07,234,30,1,0.0,Cash on Delivery,Returned
+11365,2025-04-07,90,18,5,0.2,Cash on Delivery,Delivered
+10262,2025-04-07,199,1,8,0.0,Cash on Delivery,Returned
+11539,2025-04-07,274,21,3,0.0,Card,Delivered
+11891,2025-04-07,77,10,2,0.0,Bank Transfer,Delivered
+11188,2025-04-08,231,17,2,0.05,Bank Transfer,Delivered
+12477,2025-04-08,127,25,2,0.05,Bank Transfer,Delivered
+10450,2025-04-08,143,1,5,0.0,Card,Delivered
+11504,2025-04-08,283,16,3,0.05,Cash on Delivery,Delivered
+10900,2025-04-08,246,13,2,0.2,Cash on Delivery,Delivered
+10661,2025-04-08,189,28,5,0.15,D17,Delivered
+11577,2025-04-08,252,30,1,0.0,Card,Delivered
+10494,2025-04-08,279,12,8,0.2,Cash on Delivery,Delivered
+11797,2025-04-08,114,19,2,0.15,Cash on Delivery,Delivered
+10469,2025-04-08,168,8,8,0.0,Card,Delivered
+12167,2025-04-08,27,3,8,0.0,Card,Cancelled
+10387,2025-04-08,120,10,4,0.2,Card,Delivered
+10602,2025-04-09,54,17,8,0.05,Cash on Delivery,Delivered
+10432,2025-04-09,86,14,6,0.0,Card,Delivered
+10702,2025-04-09,75,15,1,0.05,D17,Delivered
+10169,2025-04-09,139,22,1,0.15,Card,Delivered
+10179,2025-04-09,43,22,4,0.05,Card,Delivered
+11502,2025-04-09,29,21,1,0.05,Card,Delivered
+12471,2025-04-09,229,5,1,0.05,Card,Cancelled
+10427,2025-04-10,300,15,1,0.1,Cash on Delivery,Delivered
+11863,2025-04-10,139,18,1,0.05,D17,Delivered
+11758,2025-04-10,14,29,3,0.15,Cash on Delivery,Delivered
+12211,2025-04-10,241,20,1,0.15,Card,Delivered
+11111,2025-04-10,248,13,2,0.1,Cash on Delivery,Delivered
+10490,2025-04-10,79,29,3,0.05,Card,Delivered
+10159,2025-04-10,164,9,1,0.05,Cash on Delivery,Delivered
+12449,2025-04-11,194,10,2,0.05,Card,Delivered
+12148,2025-04-11,281,13,8,0.15,Bank Transfer,Delivered
+10473,2025-04-11,64,19,5,0.2,Card,Cancelled
+10210,2025-04-11,188,16,8,0.15,Card,Delivered
+12330,2025-04-11,147,15,1,0.05,Bank Transfer,Delivered
+11454,2025-04-11,172,6,5,0.0,Card,Delivered
+12240,2025-04-11,298,17,6,0.15,Card,Delivered
+10442,2025-04-11,40,16,3,0.0,Card,Delivered
+10531,2025-04-11,229,20,2,0.0,Cash on Delivery,Delivered
+11464,2025-04-12,17,13,5,0.0,Cash on Delivery,Delivered
+12230,2025-04-12,292,9,3,0.1,Card,Delivered
+11995,2025-04-12,9,18,1,0.05,Card,Delivered
+11691,2025-04-12,265,23,1,0.2,Card,Delivered
+12315,2025-04-12,168,9,1,0.1,Bank Transfer,Delivered
+12113,2025-04-12,150,14,1,0.1,Cash on Delivery,Delivered
+10834,2025-04-13,137,6,2,0.0,Bank Transfer,Delivered
+11457,2025-04-13,240,9,2,0.15,Cash on Delivery,Delivered
+12257,2025-04-13,136,17,1,0.1,Cash on Delivery,Delivered
+11555,2025-04-13,272,17,8,0.2,D17,Delivered
+10933,2025-04-13,7,8,1,0.0,Cash on Delivery,Delivered
+10819,2025-04-14,271,22,6,0.2,Cash on Delivery,Delivered
+10462,2025-04-14,144,15,1,0.0,Card,Delivered
+10333,2025-04-14,128,18,2,0.2,Cash on Delivery,Delivered
+11686,2025-04-14,231,27,5,0.2,Card,Delivered
+11624,2025-04-14,77,2,5,0.1,Cash on Delivery,Delivered
+10475,2025-04-14,189,8,6,0.0,Cash on Delivery,Delivered
+12049,2025-04-14,41,2,8,0.0,Cash on Delivery,Delivered
+10164,2025-04-15,67,29,4,0.15,Cash on Delivery,Delivered
+12087,2025-04-15,58,8,1,0.0,D17,Delivered
+12216,2025-04-15,10,16,4,0.15,Cash on Delivery,Delivered
+10402,2025-04-15,93,1,1,0.15,Card,Cancelled
+10756,2025-04-15,126,15,6,0.0,Bank Transfer,Delivered
+10111,2025-04-15,249,8,3,0.1,Cash on Delivery,Delivered
+10197,2025-04-16,270,14,8,0.2,Bank Transfer,Delivered
+10083,2025-04-16,67,12,6,0.0,Cash on Delivery,Cancelled
+10098,2025-04-16,32,13,2,0.15,Card,Delivered
+10306,2025-04-16,157,15,2,0.1,Cash on Delivery,Delivered
+11848,2025-04-16,143,17,1,0.05,Cash on Delivery,Delivered
+11821,2025-04-16,210,11,1,0.0,Bank Transfer,Delivered
+11749,2025-04-16,58,16,1,0.0,D17,Delivered
+11254,2025-04-17,242,2,2,0.1,Cash on Delivery,Delivered
+12495,2025-04-17,210,29,5,0.1,Cash on Delivery,Delivered
+11204,2025-04-17,208,18,5,0.0,Cash on Delivery,Delivered
+10535,2025-04-17,21,27,4,0.2,Cash on Delivery,Cancelled
+11511,2025-04-17,117,11,8,0.05,Card,Delivered
+11640,2025-04-18,15,8,2,0.0,Cash on Delivery,Delivered
+10805,2025-04-18,72,18,1,0.0,Cash on Delivery,Delivered
+12194,2025-04-18,290,25,1,0.05,Bank Transfer,Cancelled
+11429,2025-04-19,183,14,1,0.0,Cash on Delivery,Delivered
+11486,2025-04-19,123,22,2,0.05,Cash on Delivery,Delivered
+10717,2025-04-19,278,13,8,0.15,Cash on Delivery,Cancelled
+12012,2025-04-19,41,30,6,0.0,Cash on Delivery,Delivered
+11792,2025-04-20,120,26,6,0.2,Cash on Delivery,Cancelled
+11299,2025-04-20,241,6,1,0.1,Cash on Delivery,Delivered
+11599,2025-04-21,111,27,2,0.15,Card,Delivered
+11320,2025-04-21,277,16,2,0.15,Card,Delivered
+11714,2025-04-21,54,16,4,0.15,D17,Cancelled
+11551,2025-04-21,181,5,8,0.15,Card,Delivered
+10243,2025-04-21,117,24,1,0.1,Cash on Delivery,Delivered
+11668,2025-04-22,99,18,8,0.0,Bank Transfer,Returned
+10241,2025-04-22,163,26,2,0.1,Cash on Delivery,Delivered
+12393,2025-04-22,157,27,5,0.0,Card,Delivered
+11016,2025-04-22,17,18,8,0.0,D17,Delivered
+11537,2025-04-22,189,13,6,0.2,Cash on Delivery,Cancelled
+10982,2025-04-22,46,14,8,0.15,D17,Cancelled
+11899,2025-04-22,28,13,1,0.0,Card,Delivered
+10373,2025-04-23,38,17,1,0.0,Cash on Delivery,Delivered
+10642,2025-04-23,61,22,5,0.0,Card,Delivered
+10044,2025-04-23,11,4,1,0.2,Cash on Delivery,Delivered
+10398,2025-04-23,109,12,1,0.2,D17,Delivered
+11449,2025-04-23,6,16,3,0.0,Card,Delivered
+11107,2025-04-24,5,18,2,0.15,D17,Delivered
+12429,2025-04-24,228,13,8,0.05,Card,Delivered
+11217,2025-04-24,14,21,8,0.2,D17,Delivered
+10096,2025-04-24,132,8,1,0.0,Cash on Delivery,Delivered
+11881,2025-04-24,121,8,5,0.2,Card,Delivered
+10202,2025-04-24,175,17,1,0.15,Card,Delivered
+10032,2025-04-24,166,4,3,0.05,Cash on Delivery,Delivered
+11589,2025-04-24,287,16,1,0.1,Card,Delivered
+11991,2025-04-25,185,9,3,0.1,Cash on Delivery,Delivered
+10557,2025-04-25,273,15,6,0.05,Cash on Delivery,Delivered
+11059,2025-04-25,24,11,4,0.2,Cash on Delivery,Delivered
+12293,2025-04-25,62,24,4,0.0,Cash on Delivery,Delivered
+10926,2025-04-25,240,18,4,0.0,Cash on Delivery,Delivered
+10253,2025-04-26,217,25,3,0.05,Cash on Delivery,Delivered
+11710,2025-04-26,85,24,4,0.15,Cash on Delivery,Cancelled
+11816,2025-04-26,191,15,3,0.15,Card,Delivered
+10978,2025-04-26,217,17,1,0.0,Cash on Delivery,Delivered
+11543,2025-04-26,96,13,1,0.05,Card,Delivered
+10877,2025-04-26,235,21,1,0.0,Cash on Delivery,Delivered
+11806,2025-04-26,265,27,8,0.2,Cash on Delivery,Delivered
+10966,2025-04-27,165,26,6,0.0,Bank Transfer,Delivered
+11265,2025-04-27,209,13,1,0.05,Card,Delivered
+10748,2025-04-27,150,17,1,0.1,Cash on Delivery,Cancelled
+12447,2025-04-27,85,10,1,0.0,Card,Delivered
+11774,2025-04-27,152,15,5,0.15,D17,Delivered
+11491,2025-04-27,240,9,1,0.0,Card,Delivered
+11915,2025-04-27,259,15,3,0.1,Card,Delivered
+12108,2025-04-27,290,12,4,0.1,D17,Delivered
+10843,2025-04-27,207,30,2,0.0,Bank Transfer,Delivered
+10367,2025-04-27,78,16,3,0.0,Bank Transfer,Delivered
+10641,2025-04-27,81,10,1,0.2,Card,Delivered
+12146,2025-04-27,175,2,5,0.0,Card,Delivered
+12149,2025-04-28,210,16,6,0.0,Bank Transfer,Delivered
+11595,2025-04-28,164,15,4,0.1,Cash on Delivery,Cancelled
+11337,2025-04-28,236,15,8,0.2,Cash on Delivery,Delivered
+11898,2025-04-28,182,12,6,0.0,Cash on Delivery,Delivered
+10904,2025-04-28,139,24,4,0.05,Cash on Delivery,Returned
+11628,2025-04-28,152,13,1,0.2,Cash on Delivery,Delivered
+10620,2025-05-01,70,2,2,0.0,Cash on Delivery,Delivered
+10078,2025-05-01,293,23,2,0.1,Card,Delivered
+10783,2025-05-01,281,17,8,0.2,Cash on Delivery,Cancelled
+12399,2025-05-02,156,6,2,0.2,Card,Delivered
+10076,2025-05-02,16,17,4,0.2,Cash on Delivery,Delivered
+10853,2025-05-02,234,1,2,0.0,Card,Delivered
+11772,2025-05-02,275,16,8,0.05,Cash on Delivery,Cancelled
+10371,2025-05-02,272,7,1,0.0,Card,Delivered
+10120,2025-05-02,100,4,1,0.15,Bank Transfer,Delivered
+12430,2025-05-02,84,8,8,0.2,Cash on Delivery,Delivered
+10928,2025-05-02,294,15,4,0.15,Cash on Delivery,Delivered
+11347,2025-05-02,202,15,2,0.2,Cash on Delivery,Delivered
+11316,2025-05-02,261,11,8,0.15,Cash on Delivery,Delivered
+10403,2025-05-03,235,15,1,0.0,Bank Transfer,Delivered
+11708,2025-05-03,149,11,2,0.15,Card,Delivered
+10809,2025-05-03,278,11,1,0.2,D17,Delivered
+10115,2025-05-03,174,23,1,0.05,Card,Delivered
+12403,2025-05-03,150,18,5,0.0,D17,Delivered
+10264,2025-05-03,29,21,2,0.15,Card,Delivered
+11326,2025-05-03,178,26,2,0.0,Cash on Delivery,Delivered
+10187,2025-05-04,111,27,3,0.2,Card,Delivered
+10217,2025-05-04,133,18,3,0.0,Bank Transfer,Delivered
+11071,2025-05-04,28,14,3,0.15,Card,Cancelled
+10389,2025-05-04,58,27,3,0.05,Card,Delivered
+11535,2025-05-04,28,11,1,0.0,Cash on Delivery,Returned
+11607,2025-05-04,23,4,1,0.2,Cash on Delivery,Delivered
+11452,2025-05-04,79,6,2,0.1,Bank Transfer,Delivered
+11110,2025-05-05,231,12,2,0.0,Card,Delivered
+10973,2025-05-05,77,14,5,0.0,Cash on Delivery,Delivered
+12392,2025-05-05,69,8,4,0.15,D17,Delivered
+10806,2025-05-05,199,14,3,0.0,Cash on Delivery,Delivered
+11157,2025-05-05,8,23,4,0.05,Cash on Delivery,Delivered
+10370,2025-05-05,112,3,6,0.15,Card,Delivered
+12185,2025-05-05,261,15,2,0.2,Card,Cancelled
+12488,2025-05-05,175,9,2,0.15,Cash on Delivery,Delivered
+10986,2025-05-05,85,6,2,0.0,D17,Cancelled
+10068,2025-05-05,67,12,2,0.15,D17,Delivered
+12408,2025-05-05,286,4,4,0.0,Bank Transfer,Cancelled
+11895,2025-05-05,236,12,1,0.0,Bank Transfer,Delivered
+11140,2025-05-05,285,16,1,0.1,Cash on Delivery,Cancelled
+11000,2025-05-05,169,16,2,0.15,Cash on Delivery,Delivered
+11032,2025-05-05,228,14,2,0.0,Bank Transfer,Delivered
+11152,2025-05-05,91,21,2,0.2,Cash on Delivery,Delivered
+12443,2025-05-05,183,18,1,0.2,Card,Delivered
+11808,2025-05-06,178,16,1,0.05,Cash on Delivery,Delivered
+12006,2025-05-06,29,11,5,0.1,Card,Delivered
+12338,2025-05-06,209,24,1,0.0,Cash on Delivery,Delivered
+11046,2025-05-06,97,7,4,0.1,Card,Delivered
+12308,2025-05-06,200,16,8,0.1,Card,Delivered
+11598,2025-05-06,154,18,2,0.15,D17,Delivered
+10301,2025-05-06,229,8,1,0.0,D17,Delivered
+11798,2025-05-06,163,13,4,0.1,D17,Delivered
+11956,2025-05-07,123,24,3,0.05,Cash on Delivery,Delivered
+10250,2025-05-07,255,9,6,0.1,D17,Delivered
+12369,2025-05-07,177,14,1,0.0,D17,Delivered
+10571,2025-05-07,33,18,1,0.15,D17,Delivered
+10172,2025-05-07,181,21,1,0.2,D17,Delivered
+10329,2025-05-07,97,17,1,0.15,Cash on Delivery,Delivered
+10124,2025-05-07,49,17,1,0.05,Bank Transfer,Delivered
+11036,2025-05-07,204,27,6,0.0,D17,Delivered
+10575,2025-05-07,107,29,3,0.0,Cash on Delivery,Delivered
+12478,2025-05-08,157,22,3,0.1,Card,Delivered
+10390,2025-05-08,144,23,5,0.2,Cash on Delivery,Delivered
+12210,2025-05-08,18,13,1,0.2,Card,Delivered
+11264,2025-05-08,36,3,5,0.0,Cash on Delivery,Delivered
+11835,2025-05-08,159,11,4,0.0,Card,Cancelled
+11179,2025-05-08,211,17,4,0.05,Cash on Delivery,Delivered
+10505,2025-05-08,176,8,5,0.0,Card,Cancelled
+11233,2025-05-08,238,22,1,0.05,Card,Delivered
+12303,2025-05-09,153,4,2,0.0,Card,Delivered
+10129,2025-05-09,189,13,1,0.05,Card,Delivered
+10326,2025-05-09,83,15,2,0.0,D17,Delivered
+11050,2025-05-09,39,24,1,0.15,Card,Delivered
+10441,2025-05-09,277,20,8,0.2,Cash on Delivery,Delivered
+10464,2025-05-09,32,18,1,0.0,Cash on Delivery,Delivered
+11370,2025-05-09,103,10,1,0.1,D17,Delivered
+11548,2025-05-09,259,14,3,0.1,Cash on Delivery,Delivered
+11741,2025-05-09,192,22,2,0.0,Bank Transfer,Delivered
+11696,2025-05-10,170,17,2,0.2,Card,Delivered
+11374,2025-05-10,217,6,4,0.2,Cash on Delivery,Delivered
+10821,2025-05-10,147,16,4,0.2,Cash on Delivery,Delivered
+11952,2025-05-10,219,15,3,0.15,Cash on Delivery,Delivered
+11917,2025-05-10,148,12,1,0.0,Card,Delivered
+10701,2025-05-10,51,4,3,0.0,Card,Delivered
+10293,2025-05-10,81,22,6,0.0,Bank Transfer,Delivered
+11379,2025-05-11,224,20,4,0.0,Card,Delivered
+10772,2025-05-11,224,18,1,0.1,Card,Delivered
+10323,2025-05-11,7,26,1,0.05,Cash on Delivery,Delivered
+10231,2025-05-12,62,15,3,0.1,Card,Delivered
+11455,2025-05-12,38,15,6,0.0,D17,Delivered
+12349,2025-05-12,181,26,3,0.0,Cash on Delivery,Delivered
+10070,2025-05-12,37,26,1,0.0,Card,Delivered
+11043,2025-05-12,158,5,1,0.0,Card,Delivered
+12162,2025-05-13,250,14,3,0.05,Cash on Delivery,Delivered
+10334,2025-05-13,4,20,8,0.15,Cash on Delivery,Delivered
+12161,2025-05-13,55,9,3,0.05,Cash on Delivery,Delivered
+11967,2025-05-13,227,13,6,0.05,Cash on Delivery,Delivered
+10006,2025-05-13,257,19,1,0.0,Cash on Delivery,Cancelled
+12440,2025-05-14,118,13,1,0.15,D17,Delivered
+10841,2025-05-14,2,16,1,0.1,Bank Transfer,Delivered
+11225,2025-05-14,240,18,1,0.2,D17,Delivered
+11909,2025-05-14,202,16,1,0.1,Cash on Delivery,Delivered
+11115,2025-05-14,217,24,6,0.0,Card,Delivered
+10815,2025-05-14,239,17,3,0.0,Cash on Delivery,Delivered
+10281,2025-05-14,235,17,8,0.15,Card,Delivered
+10662,2025-05-14,233,11,1,0.0,D17,Delivered
+12007,2025-05-14,299,13,5,0.2,Card,Cancelled
+11507,2025-05-15,207,17,5,0.1,Card,Delivered
+11568,2025-05-15,166,6,1,0.2,D17,Delivered
+10268,2025-05-15,212,23,5,0.0,Card,Delivered
+11651,2025-05-15,235,18,8,0.0,Card,Delivered
+11842,2025-05-16,181,18,5,0.2,Cash on Delivery,Delivered
+10666,2025-05-16,102,19,8,0.15,D17,Returned
+11441,2025-05-16,5,2,1,0.0,Cash on Delivery,Delivered
+10875,2025-05-16,168,2,1,0.0,Cash on Delivery,Delivered
+10907,2025-05-16,224,15,4,0.2,Card,Cancelled
+11421,2025-05-16,153,13,2,0.05,Cash on Delivery,Cancelled
+10161,2025-05-16,231,11,3,0.0,Cash on Delivery,Delivered
+10885,2025-05-16,124,25,1,0.0,Card,Delivered
+10957,2025-05-16,232,16,2,0.0,Card,Delivered
+10280,2025-05-16,288,11,4,0.05,Cash on Delivery,Delivered
+11904,2025-05-17,64,23,4,0.0,Cash on Delivery,Delivered
+10167,2025-05-17,253,26,3,0.1,Cash on Delivery,Cancelled
+11211,2025-05-17,52,7,2,0.05,D17,Cancelled
+11097,2025-05-17,78,16,2,0.0,D17,Delivered
+10428,2025-05-17,164,4,2,0.15,Cash on Delivery,Cancelled
+11824,2025-05-17,239,24,1,0.05,Cash on Delivery,Returned
+10753,2025-05-17,176,13,6,0.2,Cash on Delivery,Delivered
+10668,2025-05-18,93,25,3,0.15,Cash on Delivery,Delivered
+11282,2025-05-18,30,1,3,0.2,Card,Delivered
+12017,2025-05-19,1,1,4,0.0,Cash on Delivery,Delivered
+11137,2025-05-19,189,29,8,0.0,Card,Delivered
+12188,2025-05-19,256,17,5,0.1,Bank Transfer,Delivered
+12255,2025-05-19,216,16,1,0.0,Cash on Delivery,Delivered
+12235,2025-05-19,179,29,1,0.05,Cash on Delivery,Delivered
+11083,2025-05-19,141,15,3,0.0,Card,Delivered
+11401,2025-05-19,182,3,1,0.0,Cash on Delivery,Delivered
+12331,2025-05-19,300,10,8,0.2,Card,Delivered
+11434,2025-05-19,116,16,5,0.15,Cash on Delivery,Delivered
+11482,2025-05-20,22,14,3,0.0,Cash on Delivery,Delivered
+11171,2025-05-20,169,21,3,0.1,Cash on Delivery,Delivered
+11763,2025-05-20,108,11,5,0.0,Cash on Delivery,Delivered
+12142,2025-05-20,46,17,1,0.1,Card,Returned
+10435,2025-05-20,108,4,1,0.0,Card,Delivered
+10599,2025-05-20,75,30,1,0.0,Card,Delivered
+11194,2025-05-20,36,22,8,0.0,Cash on Delivery,Delivered
+12110,2025-05-20,80,13,1,0.0,Card,Delivered
+11062,2025-05-21,212,30,3,0.0,Cash on Delivery,Cancelled
+12333,2025-05-21,49,25,3,0.2,Card,Delivered
+11319,2025-05-21,160,24,1,0.05,Card,Delivered
+10780,2025-05-21,226,8,1,0.0,Card,Delivered
+12462,2025-05-21,299,10,1,0.15,Cash on Delivery,Delivered
+11993,2025-05-21,72,13,4,0.0,Cash on Delivery,Delivered
+10352,2025-05-21,148,28,8,0.0,Bank Transfer,Cancelled
+12124,2025-05-21,290,28,1,0.0,Cash on Delivery,Delivered
+10832,2025-05-21,244,27,6,0.0,Card,Returned
+11237,2025-05-21,193,24,1,0.15,Cash on Delivery,Delivered
+10727,2025-05-21,145,5,1,0.0,Card,Delivered
+11473,2025-05-21,105,27,2,0.0,D17,Delivered
+12464,2025-05-22,151,16,5,0.05,Card,Delivered
+11626,2025-05-22,236,3,4,0.0,Bank Transfer,Returned
+12053,2025-05-22,193,4,1,0.0,Cash on Delivery,Delivered
+11051,2025-05-22,204,18,6,0.0,Cash on Delivery,Delivered
+10948,2025-05-22,46,1,1,0.1,Card,Delivered
+12088,2025-05-22,61,2,1,0.0,D17,Delivered
+11335,2025-05-22,169,24,4,0.05,Card,Delivered
+11006,2025-05-23,82,11,1,0.0,Card,Delivered
+10039,2025-05-23,184,7,8,0.1,D17,Delivered
+11845,2025-05-23,35,13,1,0.0,Card,Delivered
+10625,2025-05-23,105,6,5,0.0,Cash on Delivery,Delivered
+11742,2025-05-23,1,13,2,0.1,Card,Delivered
+11973,2025-05-23,115,18,2,0.0,Bank Transfer,Delivered
+10569,2025-05-23,139,17,2,0.1,Card,Cancelled
+12251,2025-05-23,228,26,6,0.0,Cash on Delivery,Delivered
+10397,2025-05-24,226,8,1,0.05,Card,Delivered
+10331,2025-05-24,217,13,2,0.2,Card,Delivered
+11573,2025-05-24,241,16,2,0.0,Cash on Delivery,Delivered
+11459,2025-05-24,210,19,5,0.0,Card,Delivered
+10541,2025-05-24,133,24,2,0.15,Bank Transfer,Delivered
+10835,2025-05-24,186,1,8,0.05,Cash on Delivery,Delivered
+11674,2025-05-24,187,5,6,0.05,Card,Delivered
+10119,2025-05-25,6,10,2,0.0,D17,Delivered
+11734,2025-05-25,133,7,1,0.1,Card,Delivered
+12208,2025-05-25,22,14,5,0.0,Cash on Delivery,Delivered
+12022,2025-05-25,157,26,4,0.2,Cash on Delivery,Returned
+11394,2025-05-25,75,18,1,0.1,Card,Delivered
+10270,2025-05-25,94,22,2,0.0,Bank Transfer,Delivered
+10659,2025-05-25,193,26,8,0.0,Card,Delivered
+11983,2025-05-25,55,14,3,0.0,Card,Delivered
+12136,2025-05-25,109,30,5,0.2,Cash on Delivery,Delivered
+10561,2025-05-25,189,8,1,0.05,Cash on Delivery,Delivered
+11363,2025-05-25,40,13,3,0.15,Bank Transfer,Delivered
+10019,2025-05-25,82,6,8,0.15,Bank Transfer,Delivered
+11350,2025-05-25,160,9,1,0.0,Card,Delivered
+10857,2025-05-26,132,18,1,0.1,Bank Transfer,Delivered
+11963,2025-05-26,38,6,5,0.0,Cash on Delivery,Delivered
+11812,2025-05-26,39,10,2,0.15,Card,Delivered
+10434,2025-05-26,72,24,8,0.15,Cash on Delivery,Cancelled
+12300,2025-05-27,107,17,1,0.0,Bank Transfer,Delivered
+11408,2025-05-27,176,14,6,0.0,Cash on Delivery,Delivered
+10699,2025-05-27,200,15,4,0.05,Cash on Delivery,Delivered
+12179,2025-05-27,195,3,5,0.0,Cash on Delivery,Delivered
+10382,2025-05-27,84,15,8,0.2,Bank Transfer,Delivered
+10003,2025-05-27,231,22,1,0.1,Card,Delivered
+10073,2025-05-27,200,15,6,0.2,Card,Returned
+12286,2025-05-28,274,19,2,0.05,Card,Delivered
+11075,2025-05-28,142,19,4,0.0,Cash on Delivery,Delivered
+10211,2025-06-01,53,22,2,0.1,Card,Delivered
+10436,2025-06-01,182,15,2,0.0,D17,Delivered
+11575,2025-06-01,91,26,5,0.1,Cash on Delivery,Delivered
+11261,2025-06-01,207,2,1,0.0,Bank Transfer,Delivered
+11306,2025-06-01,30,20,2,0.0,Card,Delivered
+10580,2025-06-01,68,15,4,0.05,Card,Delivered
+12015,2025-06-02,284,30,4,0.05,Cash on Delivery,Delivered
+10590,2025-06-02,275,27,3,0.05,Cash on Delivery,Delivered
+12213,2025-06-02,251,16,6,0.2,Card,Delivered
+11094,2025-06-02,7,25,6,0.15,D17,Delivered
+11955,2025-06-02,96,16,2,0.0,Cash on Delivery,Cancelled
+12141,2025-06-02,208,13,8,0.1,D17,Delivered
+10774,2025-06-02,168,10,1,0.15,Cash on Delivery,Delivered
+10343,2025-06-02,259,26,5,0.0,Cash on Delivery,Cancelled
+12313,2025-06-02,47,5,2,0.05,Card,Delivered
+10676,2025-06-03,282,27,8,0.0,Cash on Delivery,Delivered
+12272,2025-06-03,82,18,1,0.0,Card,Returned
+12328,2025-06-03,47,3,6,0.05,Card,Delivered
+11213,2025-06-03,257,15,8,0.0,Cash on Delivery,Delivered
+10720,2025-06-03,226,18,1,0.2,D17,Cancelled
+11336,2025-06-03,242,28,8,0.0,D17,Cancelled
+10993,2025-06-03,244,17,2,0.15,D17,Cancelled
+12100,2025-06-03,18,24,2,0.0,Card,Delivered
+12310,2025-06-03,185,18,5,0.0,Cash on Delivery,Cancelled
+11239,2025-06-04,75,16,1,0.0,D17,Delivered
+10143,2025-06-04,50,26,1,0.1,Card,Delivered
+10733,2025-06-04,83,4,3,0.0,Cash on Delivery,Delivered
+11884,2025-06-04,15,16,5,0.0,Cash on Delivery,Returned
+11422,2025-06-04,140,14,1,0.05,Cash on Delivery,Delivered
+10238,2025-06-04,198,23,4,0.15,Cash on Delivery,Delivered
+12438,2025-06-05,66,14,1,0.0,Cash on Delivery,Delivered
+12273,2025-06-05,49,9,2,0.15,Cash on Delivery,Delivered
+11010,2025-06-05,12,10,1,0.05,Cash on Delivery,Delivered
+10392,2025-06-05,238,24,1,0.0,Cash on Delivery,Delivered
+11938,2025-06-05,92,14,4,0.05,Card,Cancelled
+11119,2025-06-05,96,17,2,0.0,Bank Transfer,Delivered
+12036,2025-06-05,199,7,1,0.0,D17,Delivered
+11471,2025-06-06,276,19,3,0.0,D17,Delivered
+10850,2025-06-06,299,22,5,0.0,Bank Transfer,Delivered
+12125,2025-06-06,49,16,3,0.0,D17,Cancelled
+11180,2025-06-06,116,27,8,0.2,Cash on Delivery,Delivered
+11189,2025-06-06,287,18,1,0.1,Bank Transfer,Delivered
+12057,2025-06-07,38,22,3,0.0,Bank Transfer,Cancelled
+10718,2025-06-07,81,23,2,0.0,Cash on Delivery,Delivered
+10922,2025-06-07,201,4,1,0.2,D17,Delivered
+11609,2025-06-08,106,2,8,0.1,Cash on Delivery,Delivered
+12233,2025-06-08,69,6,6,0.0,Card,Delivered
+10064,2025-06-08,260,7,1,0.15,Bank Transfer,Delivered
+10410,2025-06-08,34,9,6,0.0,Cash on Delivery,Delivered
+11235,2025-06-09,271,16,2,0.05,Card,Delivered
+11080,2025-06-09,157,7,8,0.0,Card,Returned
+10084,2025-06-09,44,6,8,0.0,Bank Transfer,Delivered
+11604,2025-06-09,81,17,1,0.0,Cash on Delivery,Delivered
+12190,2025-06-09,225,9,8,0.05,D17,Delivered
+11745,2025-06-09,129,13,2,0.2,Card,Delivered
+11099,2025-06-10,194,22,8,0.05,Card,Delivered
+10012,2025-06-10,19,12,4,0.1,Cash on Delivery,Delivered
+11769,2025-06-10,173,20,3,0.05,Cash on Delivery,Delivered
+10031,2025-06-10,253,28,3,0.05,D17,Delivered
+11385,2025-06-10,144,16,4,0.0,Cash on Delivery,Delivered
+10742,2025-06-10,10,30,1,0.05,Cash on Delivery,Delivered
+12082,2025-06-10,252,13,1,0.15,Card,Delivered
+10700,2025-06-10,138,27,8,0.15,Card,Delivered
+10455,2025-06-10,190,21,1,0.2,Cash on Delivery,Delivered
+10868,2025-06-10,232,23,4,0.0,Card,Delivered
+10207,2025-06-11,205,6,1,0.0,D17,Delivered
+11933,2025-06-11,212,13,4,0.1,Card,Delivered
+10931,2025-06-11,145,14,2,0.0,D17,Cancelled
+11935,2025-06-11,173,9,1,0.2,Cash on Delivery,Delivered
+10785,2025-06-11,2,13,8,0.0,Card,Delivered
+12173,2025-06-11,68,28,2,0.1,D17,Delivered
+10320,2025-06-11,192,17,1,0.2,Cash on Delivery,Delivered
+11064,2025-06-12,286,2,4,0.0,Card,Delivered
+12253,2025-06-12,125,20,6,0.0,Card,Delivered
+11340,2025-06-13,224,14,2,0.15,Card,Delivered
+12164,2025-06-13,238,11,5,0.2,Cash on Delivery,Returned
+10523,2025-06-13,218,28,5,0.0,Bank Transfer,Delivered
+10970,2025-06-13,162,16,2,0.1,Cash on Delivery,Delivered
+11611,2025-06-13,233,17,5,0.0,Card,Delivered
+12027,2025-06-13,225,15,8,0.15,Cash on Delivery,Delivered
+11540,2025-06-13,189,13,6,0.15,Cash on Delivery,Delivered
+11698,2025-06-13,124,26,4,0.05,Bank Transfer,Delivered
+10339,2025-06-13,253,18,5,0.15,Cash on Delivery,Delivered
+11634,2025-06-13,198,13,6,0.05,Cash on Delivery,Delivered
+10512,2025-06-13,194,10,1,0.15,Card,Delivered
+10297,2025-06-13,214,24,4,0.2,Card,Delivered
+10589,2025-06-13,252,13,6,0.0,Cash on Delivery,Delivered
+10114,2025-06-13,273,23,8,0.0,D17,Delivered
+10786,2025-06-14,169,22,2,0.0,D17,Delivered
+11369,2025-06-14,230,22,8,0.0,Bank Transfer,Delivered
+12482,2025-06-14,12,24,4,0.2,Cash on Delivery,Delivered
+10946,2025-06-14,177,30,1,0.15,Card,Delivered
+10232,2025-06-14,232,26,2,0.0,Card,Delivered
+12270,2025-06-15,258,13,6,0.0,Cash on Delivery,Delivered
+10524,2025-06-15,211,7,1,0.2,Cash on Delivery,Delivered
+12410,2025-06-15,87,28,1,0.15,Bank Transfer,Delivered
+10950,2025-06-15,212,16,1,0.05,Cash on Delivery,Delivered
+10199,2025-06-15,65,9,8,0.15,Cash on Delivery,Cancelled
+11011,2025-06-16,273,8,8,0.15,D17,Delivered
+10579,2025-06-16,48,2,4,0.05,Card,Delivered
+11839,2025-06-16,109,15,8,0.2,Cash on Delivery,Delivered
+12457,2025-06-16,79,13,5,0.0,Card,Delivered
+12241,2025-06-16,199,29,8,0.1,Card,Delivered
+12044,2025-06-16,121,29,6,0.0,Cash on Delivery,Delivered
+12336,2025-06-17,106,22,8,0.0,Card,Delivered
+11470,2025-06-17,189,10,3,0.15,Cash on Delivery,Delivered
+11116,2025-06-17,160,17,6,0.15,Cash on Delivery,Delivered
+12460,2025-06-17,208,28,1,0.0,D17,Cancelled
+10996,2025-06-17,227,11,1,0.2,Card,Delivered
+11040,2025-06-17,236,14,1,0.2,Bank Transfer,Delivered
+12084,2025-06-18,283,3,5,0.0,D17,Delivered
+11195,2025-06-18,113,29,8,0.1,Bank Transfer,Delivered
+11913,2025-06-18,33,13,8,0.05,Card,Delivered
+12434,2025-06-18,46,2,1,0.0,Card,Delivered
+12201,2025-06-18,24,14,5,0.0,Card,Delivered
+10321,2025-06-18,168,18,2,0.0,Cash on Delivery,Delivered
+11831,2025-06-18,15,8,6,0.05,Cash on Delivery,Delivered
+10573,2025-06-18,253,17,8,0.2,Card,Delivered
+10277,2025-06-18,15,16,1,0.0,Cash on Delivery,Delivered
+12025,2025-06-19,148,22,4,0.0,Card,Delivered
+11775,2025-06-19,270,17,6,0.2,Card,Delivered
+12034,2025-06-19,233,8,4,0.15,Cash on Delivery,Delivered
+10058,2025-06-19,75,10,5,0.15,Card,Delivered
+10346,2025-06-19,191,14,4,0.15,Cash on Delivery,Cancelled
+11128,2025-06-19,120,21,1,0.0,Bank Transfer,Delivered
+11650,2025-06-19,274,10,1,0.1,Card,Returned
+11274,2025-06-20,182,30,3,0.0,Bank Transfer,Delivered
+11386,2025-06-20,158,15,8,0.05,Cash on Delivery,Delivered
+10182,2025-06-20,287,1,1,0.05,Cash on Delivery,Cancelled
+11004,2025-06-20,286,24,4,0.2,Cash on Delivery,Delivered
+10675,2025-06-20,72,15,1,0.0,Bank Transfer,Delivered
+10033,2025-06-20,237,13,1,0.0,D17,Delivered
+11351,2025-06-21,144,14,4,0.2,Card,Delivered
+10063,2025-06-21,140,18,4,0.05,Cash on Delivery,Delivered
+11688,2025-06-21,34,20,2,0.05,Card,Delivered
+11872,2025-06-21,147,15,8,0.05,Card,Delivered
+10079,2025-06-21,161,13,1,0.0,Card,Delivered
+10288,2025-06-21,243,7,1,0.1,Cash on Delivery,Delivered
+11894,2025-06-21,296,5,3,0.0,Card,Cancelled
+11817,2025-06-21,4,1,5,0.0,Cash on Delivery,Delivered
+11980,2025-06-21,147,14,1,0.0,Cash on Delivery,Returned
+12083,2025-06-21,253,17,1,0.2,Card,Delivered
+11049,2025-06-21,270,15,1,0.2,D17,Delivered
+10585,2025-06-21,101,23,5,0.0,D17,Delivered
+12195,2025-06-22,28,22,3,0.0,Cash on Delivery,Delivered
+10689,2025-06-22,7,12,3,0.0,Cash on Delivery,Delivered
+10787,2025-06-22,236,25,5,0.0,Cash on Delivery,Returned
+10460,2025-06-22,173,16,4,0.1,Card,Delivered
+10021,2025-06-22,255,19,1,0.0,Card,Delivered
+11859,2025-06-23,88,25,3,0.15,Bank Transfer,Delivered
+11972,2025-06-23,37,21,1,0.0,Card,Delivered
+10525,2025-06-23,51,19,6,0.0,Cash on Delivery,Delivered
+11826,2025-06-24,20,4,6,0.0,Cash on Delivery,Delivered
+12344,2025-06-24,140,6,8,0.0,Cash on Delivery,Delivered
+10597,2025-06-24,51,26,1,0.0,Card,Delivered
+11576,2025-06-24,270,18,2,0.15,Cash on Delivery,Delivered
+10336,2025-06-24,186,25,1,0.0,Cash on Delivery,Delivered
+11005,2025-06-24,69,8,8,0.2,Cash on Delivery,Delivered
+12068,2025-06-24,73,19,8,0.1,Cash on Delivery,Delivered
+10991,2025-06-24,183,11,3,0.05,D17,Delivered
+10177,2025-06-24,46,10,1,0.15,Cash on Delivery,Delivered
+11515,2025-06-25,31,16,8,0.05,Cash on Delivery,Delivered
+10615,2025-06-25,210,13,1,0.0,D17,Delivered
+11416,2025-06-25,285,21,8,0.05,Card,Returned
+10759,2025-06-25,149,14,2,0.05,Cash on Delivery,Delivered
+10498,2025-06-25,196,15,2,0.15,Cash on Delivery,Delivered
+11338,2025-06-25,139,18,2,0.05,Cash on Delivery,Delivered
+12409,2025-06-25,269,6,3,0.0,Card,Delivered
+11087,2025-06-25,76,14,1,0.0,D17,Cancelled
+12231,2025-06-25,266,18,1,0.0,Cash on Delivery,Cancelled
+12356,2025-06-26,17,8,6,0.05,Card,Delivered
+11753,2025-06-26,30,7,1,0.2,Cash on Delivery,Delivered
+10353,2025-06-26,212,2,2,0.15,D17,Delivered
+12193,2025-06-26,224,6,2,0.05,Card,Delivered
+11017,2025-06-26,134,5,4,0.0,Card,Cancelled
+11362,2025-06-26,143,24,6,0.0,Card,Cancelled
+10898,2025-06-26,183,18,2,0.0,D17,Delivered
+11726,2025-06-27,195,4,8,0.05,Card,Cancelled
+12413,2025-06-27,143,18,3,0.05,Bank Transfer,Delivered
+10053,2025-06-27,222,25,8,0.05,D17,Delivered
+11332,2025-06-27,159,6,2,0.0,Cash on Delivery,Delivered
+10183,2025-06-27,169,26,1,0.2,Card,Delivered
+11864,2025-06-27,178,26,2,0.2,Bank Transfer,Delivered
+10564,2025-06-27,63,7,1,0.2,Card,Delivered
+11560,2025-06-28,46,12,3,0.0,D17,Delivered
+10228,2025-06-28,203,14,5,0.0,Cash on Delivery,Delivered
+10400,2025-06-28,129,13,4,0.0,Cash on Delivery,Delivered
+12004,2025-06-28,267,18,6,0.0,Cash on Delivery,Delivered
+12340,2025-06-28,145,14,3,0.0,Cash on Delivery,Cancelled
+10480,2025-07-01,34,14,8,0.1,Card,Delivered
+11193,2025-07-01,288,15,5,0.05,Cash on Delivery,Delivered
+11222,2025-07-01,216,18,2,0.15,D17,Delivered
+12414,2025-07-01,58,15,8,0.0,Bank Transfer,Delivered
+11994,2025-07-01,19,13,1,0.0,Card,Delivered
+10330,2025-07-01,82,15,8,0.2,Card,Delivered
+12354,2025-07-02,63,16,1,0.0,Cash on Delivery,Delivered
+10820,2025-07-02,56,12,4,0.15,Card,Delivered
+12094,2025-07-02,291,28,2,0.0,Bank Transfer,Delivered
+12092,2025-07-02,232,10,5,0.15,Card,Delivered
+10412,2025-07-02,151,5,3,0.2,Card,Delivered
+10665,2025-07-02,244,14,3,0.2,Cash on Delivery,Cancelled
+11126,2025-07-02,61,14,1,0.05,Cash on Delivery,Delivered
+10036,2025-07-02,61,7,1,0.0,Cash on Delivery,Delivered
+12461,2025-07-02,53,3,3,0.05,Card,Delivered
+10983,2025-07-02,105,24,1,0.0,Card,Delivered
+10923,2025-07-02,88,10,1,0.1,Card,Delivered
+11375,2025-07-02,169,16,1,0.0,Card,Delivered
+10588,2025-07-02,193,2,3,0.05,Bank Transfer,Delivered
+12347,2025-07-02,116,9,2,0.0,Cash on Delivery,Delivered
+12182,2025-07-02,272,12,4,0.2,Bank Transfer,Cancelled
+11399,2025-07-02,237,21,4,0.0,Cash on Delivery,Delivered
+10859,2025-07-03,233,28,4,0.2,Card,Cancelled
+11259,2025-07-03,135,3,3,0.05,Card,Delivered
+10092,2025-07-03,49,29,1,0.2,Cash on Delivery,Delivered
+10426,2025-07-03,129,25,2,0.0,Cash on Delivery,Delivered
+10567,2025-07-03,79,27,1,0.0,Cash on Delivery,Delivered
+12416,2025-07-03,214,24,2,0.05,Card,Cancelled
+10891,2025-07-03,294,10,2,0.05,Cash on Delivery,Cancelled
+10095,2025-07-03,245,16,1,0.15,Card,Delivered
+11088,2025-07-03,140,27,5,0.1,Card,Delivered
+10552,2025-07-03,6,14,1,0.0,Cash on Delivery,Delivered
+10071,2025-07-04,194,10,4,0.2,Cash on Delivery,Delivered
+10208,2025-07-04,180,5,5,0.2,Card,Delivered
+12326,2025-07-04,196,12,5,0.0,Cash on Delivery,Delivered
+10763,2025-07-04,257,11,1,0.2,D17,Delivered
+10672,2025-07-04,229,15,2,0.0,Cash on Delivery,Delivered
+10801,2025-07-04,13,29,1,0.2,D17,Delivered
+10271,2025-07-05,134,12,5,0.0,Cash on Delivery,Delivered
+11844,2025-07-05,157,16,2,0.1,Cash on Delivery,Delivered
+12435,2025-07-05,2,18,1,0.05,Card,Cancelled
+10517,2025-07-05,260,10,5,0.2,Cash on Delivery,Delivered
+12302,2025-07-05,107,14,1,0.0,Card,Delivered
+12078,2025-07-05,270,18,4,0.0,D17,Delivered
+11768,2025-07-05,152,26,2,0.0,Card,Returned
+11889,2025-07-05,284,26,4,0.1,Cash on Delivery,Delivered
+11303,2025-07-06,22,17,5,0.2,Card,Cancelled
+10636,2025-07-06,159,6,2,0.05,Cash on Delivery,Returned
+10660,2025-07-06,107,16,2,0.0,Card,Delivered
+12341,2025-07-06,17,13,1,0.0,Cash on Delivery,Delivered
+11187,2025-07-06,57,2,3,0.0,Cash on Delivery,Delivered
+11704,2025-07-07,254,14,5,0.1,Card,Delivered
+10558,2025-07-07,206,8,3,0.0,Cash on Delivery,Delivered
+10910,2025-07-07,167,13,1,0.0,Cash on Delivery,Delivered
+11653,2025-07-07,256,7,1,0.2,D17,Delivered
+11438,2025-07-07,79,9,1,0.2,Card,Returned
+10218,2025-07-07,47,23,5,0.0,D17,Delivered
+10489,2025-07-07,80,1,2,0.0,Cash on Delivery,Delivered
+11512,2025-07-07,293,22,1,0.15,Cash on Delivery,Cancelled
+11465,2025-07-07,280,17,5,0.0,Card,Delivered
+11109,2025-07-08,213,15,4,0.1,Cash on Delivery,Cancelled
+11695,2025-07-08,206,9,8,0.0,Card,Delivered
+12442,2025-07-08,268,17,6,0.1,Card,Delivered
+10324,2025-07-08,243,9,1,0.05,Card,Delivered
+10014,2025-07-08,128,17,3,0.05,Cash on Delivery,Delivered
+10082,2025-07-08,153,13,8,0.0,D17,Delivered
+10646,2025-07-08,283,14,1,0.0,Card,Delivered
+10583,2025-07-08,75,14,6,0.15,Cash on Delivery,Delivered
+11847,2025-07-08,4,16,2,0.0,Cash on Delivery,Delivered
+10737,2025-07-08,164,1,3,0.0,Cash on Delivery,Returned
+10723,2025-07-08,250,8,4,0.05,Card,Delivered
+10245,2025-07-08,153,13,1,0.05,Cash on Delivery,Delivered
+11164,2025-07-09,38,19,2,0.15,Card,Delivered
+10674,2025-07-09,206,1,2,0.2,D17,Delivered
+11025,2025-07-09,254,1,4,0.1,D17,Delivered
+10758,2025-07-09,261,18,1,0.0,D17,Delivered
+11247,2025-07-09,42,15,2,0.1,Bank Transfer,Delivered
+10011,2025-07-10,30,27,6,0.2,Card,Delivered
+10283,2025-07-10,22,21,6,0.0,D17,Delivered
+10563,2025-07-10,237,13,5,0.2,D17,Delivered
+11916,2025-07-10,29,21,6,0.0,Cash on Delivery,Cancelled
+12157,2025-07-10,109,14,5,0.1,Card,Delivered
+11366,2025-07-10,299,18,1,0.0,Cash on Delivery,Delivered
+11514,2025-07-10,227,20,1,0.0,D17,Delivered
+12000,2025-07-10,21,6,1,0.0,Cash on Delivery,Delivered
+11138,2025-07-10,35,18,8,0.1,Cash on Delivery,Returned
+10716,2025-07-10,177,22,2,0.15,Card,Returned
+11130,2025-07-10,120,13,2,0.0,Cash on Delivery,Delivered
+11729,2025-07-10,269,13,1,0.15,Card,Returned
+11240,2025-07-11,115,26,3,0.05,Cash on Delivery,Delivered
+11922,2025-07-11,78,14,5,0.1,Cash on Delivery,Delivered
+11027,2025-07-11,59,15,3,0.0,Cash on Delivery,Delivered
+12306,2025-07-11,20,15,2,0.0,Cash on Delivery,Delivered
+11896,2025-07-11,127,18,1,0.2,D17,Delivered
+11901,2025-07-11,20,15,8,0.0,D17,Delivered
+11767,2025-07-12,278,24,4,0.2,Cash on Delivery,Delivered
+10831,2025-07-12,53,22,2,0.15,Card,Delivered
+10916,2025-07-12,98,13,1,0.1,Cash on Delivery,Delivered
+12474,2025-07-12,125,7,5,0.0,Cash on Delivery,Delivered
+11873,2025-07-12,29,4,1,0.0,Bank Transfer,Delivered
+12406,2025-07-12,17,21,6,0.2,Cash on Delivery,Cancelled
+11129,2025-07-12,287,9,1,0.0,Cash on Delivery,Delivered
+11647,2025-07-12,126,18,1,0.15,Card,Delivered
+10476,2025-07-12,54,16,4,0.0,D17,Delivered
+12277,2025-07-12,55,12,5,0.2,D17,Delivered
+11720,2025-07-12,25,14,8,0.0,D17,Delivered
+10180,2025-07-12,220,4,1,0.0,Card,Delivered
+10431,2025-07-13,178,14,1,0.2,D17,Delivered
+12130,2025-07-13,40,14,1,0.0,Bank Transfer,Cancelled
+11276,2025-07-13,109,2,2,0.0,Bank Transfer,Delivered
+10915,2025-07-13,128,15,2,0.0,Cash on Delivery,Cancelled
+12224,2025-07-13,118,21,2,0.0,Cash on Delivery,Delivered
+11047,2025-07-13,194,18,2,0.0,Cash on Delivery,Delivered
+12234,2025-07-13,239,4,4,0.0,Card,Delivered
+10478,2025-07-13,1,15,4,0.15,Bank Transfer,Cancelled
+10825,2025-07-14,56,11,6,0.15,Cash on Delivery,Delivered
+10582,2025-07-14,63,24,5,0.2,Cash on Delivery,Delivered
+11746,2025-07-14,277,15,2,0.1,Cash on Delivery,Delivered
+12024,2025-07-14,163,25,2,0.05,D17,Delivered
+11865,2025-07-15,55,30,6,0.15,Cash on Delivery,Delivered
+10687,2025-07-15,125,1,2,0.0,Cash on Delivery,Delivered
+11498,2025-07-15,298,21,5,0.2,Bank Transfer,Delivered
+10495,2025-07-15,94,6,4,0.0,D17,Delivered
+11089,2025-07-15,45,29,2,0.2,Card,Delivered
+12417,2025-07-15,125,16,1,0.0,Cash on Delivery,Cancelled
+12133,2025-07-15,29,10,3,0.0,Card,Delivered
+12339,2025-07-15,82,4,3,0.0,Cash on Delivery,Delivered
+10502,2025-07-16,32,12,6,0.05,Cash on Delivery,Delivered
+11383,2025-07-16,98,1,5,0.05,Card,Cancelled
+11930,2025-07-16,58,18,1,0.05,Card,Cancelled
+10633,2025-07-16,122,17,1,0.15,Card,Delivered
+11447,2025-07-16,71,25,2,0.0,Cash on Delivery,Delivered
+10147,2025-07-16,99,12,2,0.15,Card,Delivered
+12288,2025-07-16,123,14,1,0.0,Card,Delivered
+11838,2025-07-16,55,18,1,0.05,Cash on Delivery,Delivered
+11393,2025-07-17,15,23,1,0.2,Card,Delivered
+10383,2025-07-17,53,15,8,0.1,Card,Delivered
+11646,2025-07-17,120,12,5,0.0,Card,Delivered
+12242,2025-07-17,234,21,3,0.2,Cash on Delivery,Delivered
+11068,2025-07-17,52,13,2,0.05,D17,Delivered
+11850,2025-07-18,171,16,8,0.1,Card,Delivered
+11334,2025-07-18,219,4,2,0.05,Card,Delivered
+11134,2025-07-18,56,15,8,0.15,Cash on Delivery,Delivered
+10438,2025-07-18,20,19,8,0.0,Bank Transfer,Delivered
+11067,2025-07-18,49,12,1,0.15,D17,Delivered
+12351,2025-07-18,41,16,6,0.05,Cash on Delivery,Delivered
+11294,2025-07-19,121,8,1,0.2,D17,Delivered
+12446,2025-07-19,105,27,1,0.0,Card,Delivered
+10377,2025-07-19,281,18,6,0.15,Cash on Delivery,Delivered
+10174,2025-07-19,80,12,2,0.0,Cash on Delivery,Cancelled
+10269,2025-07-20,50,11,4,0.15,Bank Transfer,Delivered
+11309,2025-07-20,98,18,5,0.1,Card,Delivered
+12404,2025-07-20,174,25,8,0.05,Card,Delivered
+11675,2025-07-20,59,5,2,0.0,Cash on Delivery,Delivered
+11202,2025-07-20,233,30,3,0.15,Cash on Delivery,Delivered
+11175,2025-07-20,100,18,6,0.05,Cash on Delivery,Returned
+10962,2025-07-20,2,15,5,0.0,Card,Delivered
+11622,2025-07-20,186,21,4,0.0,Card,Cancelled
+10664,2025-07-21,187,4,4,0.15,Cash on Delivery,Delivered
+11278,2025-07-21,64,26,5,0.15,Card,Delivered
+10300,2025-07-21,208,25,1,0.2,Cash on Delivery,Delivered
+11444,2025-07-21,79,17,1,0.1,Cash on Delivery,Delivered
+10443,2025-07-21,264,24,1,0.0,Cash on Delivery,Delivered
+11677,2025-07-21,183,13,1,0.1,Card,Delivered
+10184,2025-07-21,13,16,4,0.05,Bank Transfer,Delivered
+10764,2025-07-21,186,21,1,0.0,Cash on Delivery,Delivered
+10985,2025-07-21,115,13,6,0.0,Card,Delivered
+12324,2025-07-21,200,4,3,0.15,Cash on Delivery,Delivered
+11711,2025-07-21,60,19,4,0.1,Cash on Delivery,Delivered
+11789,2025-07-21,6,3,1,0.0,D17,Delivered
+10761,2025-07-22,189,16,2,0.1,Cash on Delivery,Delivered
+10394,2025-07-22,43,26,4,0.05,Cash on Delivery,Delivered
+11961,2025-07-22,106,14,2,0.2,Bank Transfer,Delivered
+10929,2025-07-22,30,2,1,0.1,Cash on Delivery,Delivered
+10349,2025-07-22,194,18,2,0.05,Cash on Delivery,Delivered
+11196,2025-07-22,14,1,6,0.0,Card,Cancelled
+10414,2025-07-23,175,7,8,0.1,Cash on Delivery,Delivered
+11287,2025-07-23,51,25,8,0.0,Card,Delivered
+12217,2025-07-23,249,24,3,0.15,Bank Transfer,Delivered
+11151,2025-07-23,184,8,4,0.05,D17,Delivered
+12076,2025-07-23,134,10,2,0.0,Card,Delivered
+10894,2025-07-23,86,21,2,0.2,Cash on Delivery,Delivered
+10779,2025-07-24,186,16,1,0.0,Cash on Delivery,Cancelled
+11945,2025-07-24,229,5,5,0.15,Cash on Delivery,Delivered
+10863,2025-07-24,74,17,5,0.0,Cash on Delivery,Delivered
+12079,2025-07-24,230,2,4,0.15,Card,Delivered
+12115,2025-07-24,257,9,2,0.05,D17,Delivered
+11888,2025-07-25,62,8,6,0.1,Cash on Delivery,Delivered
+11591,2025-07-25,253,26,2,0.0,Cash on Delivery,Returned
+10342,2025-07-25,32,23,1,0.0,Cash on Delivery,Delivered
+12367,2025-07-25,79,24,8,0.15,Card,Delivered
+10026,2025-07-25,168,18,8,0.2,D17,Delivered
+11672,2025-07-25,291,25,3,0.0,Bank Transfer,Delivered
+12398,2025-07-26,110,27,5,0.0,Cash on Delivery,Delivered
+12223,2025-07-26,216,15,3,0.0,Cash on Delivery,Delivered
+10652,2025-07-26,268,15,2,0.0,Cash on Delivery,Delivered
+11218,2025-07-26,137,13,8,0.0,Cash on Delivery,Delivered
+10999,2025-07-26,42,1,4,0.15,Bank Transfer,Delivered
+10045,2025-07-26,288,8,5,0.2,Card,Delivered
+11709,2025-07-26,226,13,8,0.0,Card,Delivered
+11056,2025-07-26,171,17,1,0.05,Cash on Delivery,Delivered
+11013,2025-07-26,92,5,1,0.15,Card,Delivered
+12204,2025-07-26,280,7,1,0.0,Cash on Delivery,Returned
+11353,2025-07-27,86,12,5,0.2,Cash on Delivery,Delivered
+11285,2025-07-27,34,16,2,0.0,Cash on Delivery,Delivered
+11021,2025-07-27,91,24,8,0.05,Bank Transfer,Delivered
+11635,2025-07-27,89,18,2,0.0,Card,Delivered
+10052,2025-07-27,272,17,1,0.0,D17,Delivered
+10895,2025-07-27,38,19,4,0.0,Card,Delivered
+12468,2025-07-27,9,16,5,0.0,Bank Transfer,Delivered
+10166,2025-07-27,13,12,1,0.0,Cash on Delivery,Delivered
+12420,2025-07-27,13,30,2,0.0,Cash on Delivery,Delivered
+11770,2025-07-28,296,23,1,0.1,D17,Delivered
+12260,2025-07-28,71,1,5,0.0,Cash on Delivery,Delivered
+11289,2025-07-28,86,13,5,0.0,Cash on Delivery,Delivered
+11002,2025-07-28,274,10,2,0.15,Cash on Delivery,Delivered
+12107,2025-07-28,153,30,1,0.05,Card,Delivered
+12437,2025-07-28,27,30,6,0.0,Card,Delivered
+10102,2025-07-28,172,18,3,0.0,Cash on Delivery,Delivered
+10693,2025-07-28,68,25,2,0.2,D17,Delivered
+12191,2025-07-28,20,21,5,0.0,Card,Delivered
+11657,2025-08-01,74,30,2,0.15,D17,Delivered
+11314,2025-08-01,31,16,2,0.15,D17,Cancelled
+11001,2025-08-01,64,1,1,0.0,Bank Transfer,Returned
+12048,2025-08-01,148,15,3,0.05,Card,Delivered
+12051,2025-08-01,286,22,1,0.2,Card,Delivered
+11371,2025-08-01,41,30,1,0.2,Card,Delivered
+12152,2025-08-01,291,10,2,0.0,Cash on Delivery,Delivered
+11125,2025-08-01,192,16,1,0.0,Card,Delivered
+10471,2025-08-02,282,11,1,0.0,Cash on Delivery,Delivered
+10406,2025-08-02,51,25,6,0.15,Cash on Delivery,Delivered
+11182,2025-08-02,183,23,1,0.2,Card,Delivered
+10884,2025-08-02,237,4,4,0.05,Card,Delivered
+11044,2025-08-02,138,30,2,0.2,Card,Delivered
+11978,2025-08-02,266,24,3,0.05,Cash on Delivery,Delivered
+12090,2025-08-02,111,23,2,0.0,Bank Transfer,Delivered
+12363,2025-08-02,140,26,1,0.1,Card,Delivered
+12312,2025-08-02,171,10,6,0.0,Cash on Delivery,Delivered
+11406,2025-08-03,136,23,1,0.05,D17,Delivered
+10302,2025-08-03,143,6,1,0.1,Card,Delivered
+11813,2025-08-03,20,25,6,0.15,Card,Delivered
+11825,2025-08-03,41,26,1,0.1,Card,Delivered
+10101,2025-08-03,36,24,2,0.2,Card,Delivered
+10225,2025-08-03,32,16,6,0.05,Card,Delivered
+10318,2025-08-03,228,28,2,0.15,Cash on Delivery,Delivered
+11003,2025-08-03,291,7,1,0.0,Card,Delivered
+11976,2025-08-03,122,15,1,0.0,Cash on Delivery,Delivered
+11301,2025-08-03,258,8,1,0.2,Cash on Delivery,Returned
+11685,2025-08-03,106,2,5,0.15,Cash on Delivery,Delivered
+10173,2025-08-03,238,13,5,0.15,Cash on Delivery,Delivered
+10529,2025-08-03,43,7,3,0.0,Card,Delivered
+10550,2025-08-03,79,11,2,0.15,D17,Delivered
+10160,2025-08-03,125,15,8,0.2,D17,Delivered
+10528,2025-08-04,168,24,4,0.15,Cash on Delivery,Cancelled
+10548,2025-08-04,49,21,6,0.1,Card,Delivered
+10744,2025-08-04,231,19,1,0.15,Card,Cancelled
+11550,2025-08-04,149,14,4,0.0,Cash on Delivery,Delivered
+11008,2025-08-04,214,14,5,0.15,Cash on Delivery,Cancelled
+12364,2025-08-04,203,16,2,0.0,Cash on Delivery,Delivered
+12059,2025-08-04,14,14,2,0.0,Card,Cancelled
+11648,2025-08-04,24,1,1,0.1,Cash on Delivery,Returned
+10020,2025-08-05,6,1,4,0.05,Card,Delivered
+10773,2025-08-05,277,19,5,0.0,Card,Delivered
+11505,2025-08-05,105,2,6,0.05,Cash on Delivery,Delivered
+11476,2025-08-05,81,14,1,0.15,Cash on Delivery,Delivered
+11542,2025-08-05,28,1,6,0.0,Cash on Delivery,Delivered
+11520,2025-08-05,244,3,6,0.0,Cash on Delivery,Delivered
+10391,2025-08-05,285,23,3,0.15,Card,Cancelled
+12060,2025-08-05,293,6,8,0.0,D17,Delivered
+11268,2025-08-06,231,21,1,0.1,Cash on Delivery,Delivered
+10967,2025-08-06,45,13,1,0.0,Card,Delivered
+11536,2025-08-06,91,27,6,0.2,D17,Delivered
+10811,2025-08-06,235,20,8,0.2,D17,Delivered
+10914,2025-08-06,119,5,1,0.0,Card,Returned
+11271,2025-08-07,221,3,1,0.2,Card,Delivered
+11549,2025-08-07,56,9,4,0.2,Card,Delivered
+12206,2025-08-07,1,2,2,0.0,Card,Cancelled
+11712,2025-08-07,202,17,1,0.0,Cash on Delivery,Delivered
+11402,2025-08-07,231,14,1,0.0,Cash on Delivery,Delivered
+10158,2025-08-07,263,18,4,0.0,Card,Delivered
+11141,2025-08-07,137,17,2,0.0,Card,Delivered
+11045,2025-08-07,22,25,1,0.0,Card,Cancelled
+11928,2025-08-07,273,14,5,0.0,Cash on Delivery,Cancelled
+10945,2025-08-08,29,12,1,0.2,Cash on Delivery,Returned
+11236,2025-08-08,59,13,1,0.15,Cash on Delivery,Delivered
+10359,2025-08-08,72,21,2,0.2,Cash on Delivery,Delivered
+11740,2025-08-08,78,18,1,0.0,Bank Transfer,Cancelled
+10317,2025-08-08,51,19,2,0.0,Cash on Delivery,Delivered
+11041,2025-08-08,49,16,2,0.0,Card,Delivered
+11161,2025-08-09,111,27,4,0.0,D17,Delivered
+11433,2025-08-09,219,1,4,0.0,Card,Delivered
+10223,2025-08-09,222,16,4,0.0,D17,Delivered
+10345,2025-08-09,274,26,2,0.05,Cash on Delivery,Delivered
+12003,2025-08-09,88,28,3,0.0,D17,Delivered
+10186,2025-08-09,16,12,2,0.0,Card,Delivered
+10611,2025-08-09,140,9,3,0.1,Card,Delivered
+12140,2025-08-09,91,23,1,0.05,Card,Delivered
+11038,2025-08-09,125,15,1,0.0,Bank Transfer,Cancelled
+12355,2025-08-09,118,18,1,0.05,Card,Delivered
+10237,2025-08-09,28,17,1,0.0,Card,Delivered
+12292,2025-08-09,151,13,6,0.2,Card,Delivered
+11912,2025-08-09,112,11,1,0.2,Card,Returned
+10002,2025-08-09,261,22,8,0.0,Card,Delivered
+10418,2025-08-09,184,18,8,0.0,Card,Delivered
+10201,2025-08-10,131,6,4,0.0,D17,Cancelled
+10365,2025-08-10,155,13,6,0.0,Card,Delivered
+10791,2025-08-10,84,29,6,0.15,Cash on Delivery,Delivered
+11908,2025-08-10,76,24,1,0.0,Card,Delivered
+10133,2025-08-10,244,5,1,0.0,Cash on Delivery,Delivered
+11496,2025-08-11,285,21,6,0.0,Card,Delivered
+12494,2025-08-11,26,10,1,0.2,D17,Delivered
+11487,2025-08-11,176,27,1,0.05,D17,Delivered
+12419,2025-08-11,47,15,3,0.0,Bank Transfer,Delivered
+10027,2025-08-11,203,15,3,0.2,Bank Transfer,Delivered
+10214,2025-08-11,62,26,1,0.05,Bank Transfer,Delivered
+10649,2025-08-11,68,18,1,0.0,D17,Delivered
+10647,2025-08-11,265,18,1,0.1,Card,Delivered
+11104,2025-08-11,202,15,2,0.0,Cash on Delivery,Delivered
+10886,2025-08-11,76,28,1,0.0,Card,Delivered
+12112,2025-08-11,38,16,2,0.0,Card,Returned
+11273,2025-08-11,234,12,5,0.15,Card,Delivered
+11117,2025-08-12,47,22,2,0.0,D17,Returned
+11918,2025-08-12,226,2,2,0.2,D17,Delivered
+11900,2025-08-12,116,23,8,0.15,Cash on Delivery,Delivered
+10862,2025-08-12,164,11,1,0.0,Cash on Delivery,Delivered
+11755,2025-08-12,256,8,2,0.0,Cash on Delivery,Returned
+10651,2025-08-12,26,16,4,0.15,Card,Delivered
+10601,2025-08-12,230,20,1,0.2,Card,Delivered
+10189,2025-08-12,287,30,4,0.0,Cash on Delivery,Delivered
+11661,2025-08-12,28,24,8,0.1,Card,Cancelled
+10949,2025-08-12,256,18,5,0.05,Cash on Delivery,Cancelled
+11396,2025-08-12,233,17,1,0.05,Card,Delivered
+10974,2025-08-12,55,12,8,0.0,Cash on Delivery,Delivered
+10771,2025-08-12,287,15,2,0.0,Card,Cancelled
+10658,2025-08-13,74,5,5,0.0,Cash on Delivery,Delivered
+10874,2025-08-13,220,26,1,0.0,Bank Transfer,Delivered
+11921,2025-08-13,231,15,3,0.15,Cash on Delivery,Delivered
+11682,2025-08-13,134,25,4,0.0,Bank Transfer,Delivered
+11702,2025-08-13,104,17,5,0.2,Card,Delivered
+10721,2025-08-13,300,28,1,0.0,Cash on Delivery,Returned
+12176,2025-08-14,45,16,1,0.05,Card,Delivered
+11585,2025-08-14,201,1,5,0.2,Cash on Delivery,Delivered
+11547,2025-08-14,193,22,1,0.15,Cash on Delivery,Delivered
+12039,2025-08-14,124,13,1,0.1,Cash on Delivery,Delivered
+10372,2025-08-14,228,18,2,0.2,Cash on Delivery,Delivered
+10839,2025-08-14,138,17,2,0.2,D17,Delivered
+10452,2025-08-14,215,17,1,0.0,Cash on Delivery,Delivered
+10942,2025-08-14,23,24,2,0.15,Card,Delivered
+11834,2025-08-14,298,30,2,0.0,Card,Cancelled
+10848,2025-08-15,115,18,2,0.2,Cash on Delivery,Delivered
+10152,2025-08-15,268,10,4,0.0,D17,Delivered
+11843,2025-08-15,91,16,2,0.2,Card,Cancelled
+12297,2025-08-15,143,18,2,0.2,Cash on Delivery,Delivered
+12116,2025-08-15,185,11,5,0.2,D17,Delivered
+10378,2025-08-16,224,8,5,0.2,Cash on Delivery,Delivered
+10116,2025-08-16,175,3,8,0.15,Cash on Delivery,Delivered
+11120,2025-08-16,62,27,4,0.0,Bank Transfer,Delivered
+11761,2025-08-16,216,8,3,0.0,Cash on Delivery,Delivered
+10138,2025-08-16,287,16,1,0.0,Cash on Delivery,Delivered
+10680,2025-08-16,179,29,1,0.0,D17,Delivered
+10294,2025-08-16,289,13,1,0.05,Cash on Delivery,Delivered
+10459,2025-08-16,19,19,1,0.05,Card,Delivered
+12379,2025-08-16,168,28,2,0.05,Card,Returned
+12117,2025-08-16,270,28,4,0.0,Card,Delivered
+11397,2025-08-16,239,8,4,0.0,Card,Delivered
+12386,2025-08-16,102,1,6,0.0,Cash on Delivery,Delivered
+11926,2025-08-17,251,23,2,0.2,Card,Delivered
+11885,2025-08-17,120,14,1,0.0,Cash on Delivery,Delivered
+10090,2025-08-17,211,15,3,0.05,Cash on Delivery,Delivered
+11176,2025-08-17,39,10,1,0.0,Card,Delivered
+10864,2025-08-17,94,3,5,0.2,Card,Delivered
+10393,2025-08-17,259,7,8,0.0,D17,Delivered
+10017,2025-08-17,230,16,1,0.1,D17,Delivered
+11286,2025-08-17,25,4,2,0.05,Card,Delivered
+11565,2025-08-17,192,18,1,0.1,Cash on Delivery,Delivered
+11779,2025-08-17,211,22,1,0.1,Card,Delivered
+11450,2025-08-18,163,15,6,0.0,Cash on Delivery,Delivered
+11469,2025-08-18,112,26,3,0.0,Cash on Delivery,Delivered
+10924,2025-08-18,20,8,1,0.2,D17,Delivered
+10261,2025-08-18,5,4,6,0.2,Bank Transfer,Cancelled
+11946,2025-08-18,110,7,3,0.0,Card,Delivered
+12040,2025-08-18,27,18,8,0.0,Cash on Delivery,Delivered
+10846,2025-08-19,5,23,8,0.15,Card,Delivered
+12373,2025-08-19,44,9,1,0.2,D17,Delivered
+12254,2025-08-19,215,16,8,0.2,D17,Delivered
+11939,2025-08-19,177,24,4,0.0,Cash on Delivery,Delivered
+12220,2025-08-19,194,14,1,0.15,Bank Transfer,Delivered
+11581,2025-08-19,75,14,1,0.15,Card,Delivered
+12147,2025-08-20,103,27,3,0.0,Cash on Delivery,Delivered
+11039,2025-08-20,265,3,1,0.2,D17,Delivered
+11878,2025-08-20,271,28,1,0.2,D17,Delivered
+12099,2025-08-20,56,28,3,0.05,D17,Delivered
+11811,2025-08-20,250,29,6,0.2,Cash on Delivery,Delivered
+10903,2025-08-20,130,10,4,0.1,Cash on Delivery,Delivered
+12301,2025-08-20,168,12,5,0.05,Bank Transfer,Delivered
+11959,2025-08-20,152,2,6,0.05,D17,Cancelled
+10516,2025-08-20,51,27,2,0.0,Cash on Delivery,Delivered
+12143,2025-08-21,50,13,1,0.0,Card,Delivered
+11929,2025-08-21,61,23,2,0.0,D17,Delivered
+11592,2025-08-21,55,28,5,0.15,Cash on Delivery,Delivered
+11605,2025-08-21,106,17,2,0.2,Cash on Delivery,Delivered
+12126,2025-08-21,146,22,1,0.1,Cash on Delivery,Delivered
+12047,2025-08-21,136,6,1,0.05,Cash on Delivery,Delivered
+11203,2025-08-21,286,21,2,0.15,Card,Delivered
+10013,2025-08-21,290,19,4,0.0,Bank Transfer,Delivered
+11156,2025-08-21,90,11,2,0.05,Cash on Delivery,Cancelled
+10258,2025-08-21,32,9,2,0.0,Cash on Delivery,Delivered
+11732,2025-08-21,300,8,2,0.1,Cash on Delivery,Delivered
+11982,2025-08-21,160,2,1,0.2,Cash on Delivery,Delivered
+11100,2025-08-21,74,15,2,0.2,D17,Cancelled
+10807,2025-08-21,87,2,2,0.15,D17,Delivered
+11248,2025-08-21,243,15,4,0.1,Card,Delivered
+11880,2025-08-22,156,15,5,0.0,Card,Delivered
+11721,2025-08-22,120,4,2,0.1,Cash on Delivery,Delivered
+11971,2025-08-22,198,17,2,0.2,Bank Transfer,Delivered
+11986,2025-08-22,190,4,8,0.0,Card,Delivered
+11250,2025-08-22,249,18,5,0.0,D17,Delivered
+10081,2025-08-22,110,15,2,0.0,Card,Delivered
+10540,2025-08-22,16,16,5,0.0,Card,Delivered
+12317,2025-08-23,66,15,1,0.05,Card,Returned
+11070,2025-08-23,265,24,3,0.0,Card,Delivered
+11613,2025-08-23,256,24,8,0.15,D17,Delivered
+10474,2025-08-23,80,17,2,0.0,Card,Delivered
+11322,2025-08-23,79,18,1,0.0,Card,Delivered
+11245,2025-08-23,69,3,8,0.15,Cash on Delivery,Cancelled
+10520,2025-08-23,113,12,6,0.0,Card,Delivered
+10609,2025-08-23,220,8,5,0.05,Cash on Delivery,Delivered
+11398,2025-08-23,56,8,2,0.0,D17,Delivered
+12074,2025-08-24,99,22,4,0.0,D17,Cancelled
+11077,2025-08-24,259,6,6,0.2,Card,Delivered
+10614,2025-08-24,268,18,8,0.0,Card,Delivered
+12371,2025-08-24,154,16,2,0.05,Card,Delivered
+10221,2025-08-24,274,6,8,0.05,Cash on Delivery,Cancelled
+11716,2025-08-24,192,15,5,0.1,D17,Delivered
+11524,2025-08-24,225,10,1,0.0,Card,Cancelled
+10109,2025-08-24,96,27,1,0.0,Cash on Delivery,Delivered
+11241,2025-08-24,174,28,1,0.0,D17,Delivered
+11324,2025-08-24,287,28,6,0.0,Card,Delivered
+10536,2025-08-24,153,2,4,0.15,Cash on Delivery,Delivered
+12064,2025-08-24,181,17,1,0.05,Bank Transfer,Returned
+11417,2025-08-25,288,23,2,0.05,Card,Delivered
+10876,2025-08-25,98,24,5,0.15,Card,Delivered
+12038,2025-08-25,207,16,2,0.0,Cash on Delivery,Delivered
+12258,2025-08-25,296,13,1,0.15,D17,Delivered
+10311,2025-08-25,127,16,6,0.05,Bank Transfer,Delivered
+10257,2025-08-25,61,25,3,0.0,Cash on Delivery,Returned
+10049,2025-08-25,26,14,1,0.0,Card,Delivered
+11730,2025-08-25,26,13,8,0.2,Cash on Delivery,Delivered
+12221,2025-08-25,73,2,5,0.05,Card,Delivered
+12196,2025-08-25,207,27,2,0.0,Cash on Delivery,Delivered
+12376,2025-08-25,199,13,1,0.15,Card,Returned
+11802,2025-08-26,270,22,1,0.0,D17,Delivered
+10256,2025-08-26,62,15,2,0.1,Cash on Delivery,Delivered
+11014,2025-08-26,208,18,6,0.0,Card,Delivered
+11751,2025-08-26,214,2,2,0.0,Cash on Delivery,Delivered
+10023,2025-08-26,161,9,5,0.15,Cash on Delivery,Delivered
+11738,2025-08-26,178,27,8,0.1,Card,Cancelled
+11931,2025-08-26,295,8,4,0.15,Cash on Delivery,Delivered
+11701,2025-08-26,40,15,1,0.0,Bank Transfer,Delivered
+12391,2025-08-26,73,22,1,0.1,Card,Delivered
+11296,2025-08-26,168,5,5,0.2,D17,Delivered
+10728,2025-08-26,234,27,3,0.0,Cash on Delivery,Delivered
+12192,2025-08-26,194,16,1,0.1,Card,Cancelled
+10617,2025-08-26,98,14,1,0.15,Cash on Delivery,Delivered
+10736,2025-08-27,4,4,1,0.0,Cash on Delivery,Cancelled
+10738,2025-08-27,295,4,4,0.0,Card,Delivered
+12401,2025-08-27,287,14,6,0.2,Cash on Delivery,Delivered
+11735,2025-08-27,97,13,1,0.05,Cash on Delivery,Delivered
+11168,2025-08-27,142,2,2,0.2,Cash on Delivery,Cancelled
+10444,2025-08-27,213,27,6,0.15,Card,Delivered
+12184,2025-08-27,165,2,5,0.0,Card,Delivered
+10037,2025-08-27,186,25,3,0.0,Card,Cancelled
+11063,2025-08-28,36,6,1,0.05,Bank Transfer,Delivered
+12055,2025-08-28,252,22,1,0.0,Card,Returned
+11739,2025-08-28,38,21,2,0.05,Cash on Delivery,Delivered
+12405,2025-08-28,83,25,3,0.0,Card,Returned
+11065,2025-08-28,273,15,1,0.05,Card,Delivered
+11852,2025-08-28,267,14,1,0.0,Card,Delivered
+11348,2025-08-28,13,20,5,0.2,Card,Delivered
+10754,2025-08-28,233,18,1,0.05,Cash on Delivery,Returned
+10484,2025-08-28,239,16,3,0.0,Cash on Delivery,Delivered
+11412,2025-09-01,73,20,1,0.0,Card,Delivered
+11185,2025-09-01,20,18,2,0.0,Cash on Delivery,Cancelled
+10162,2025-09-01,274,16,8,0.0,Cash on Delivery,Delivered
+11148,2025-09-01,13,4,5,0.15,Card,Delivered
+10137,2025-09-01,17,19,4,0.15,Card,Delivered
+11181,2025-09-01,13,17,6,0.1,Card,Delivered
+11127,2025-09-01,292,15,1,0.15,Cash on Delivery,Delivered
+11954,2025-09-01,83,15,2,0.2,Cash on Delivery,Delivered
+11288,2025-09-01,149,1,6,0.0,D17,Delivered
+10055,2025-09-01,20,26,2,0.2,Card,Delivered
+11165,2025-09-01,84,23,1,0.05,Card,Delivered
+10852,2025-09-01,50,7,1,0.15,Cash on Delivery,Delivered
+11678,2025-09-02,231,22,3,0.2,Cash on Delivery,Delivered
+10794,2025-09-02,253,18,6,0.2,Card,Delivered
+10519,2025-09-02,42,13,1,0.0,Card,Delivered
+10984,2025-09-02,42,6,4,0.2,Card,Delivered
+12263,2025-09-02,275,13,1,0.0,D17,Delivered
+12283,2025-09-02,257,16,1,0.15,Cash on Delivery,Delivered
+12248,2025-09-03,98,29,1,0.2,Card,Delivered
+10592,2025-09-03,288,24,8,0.0,Card,Cancelled
+10486,2025-09-03,110,5,2,0.05,Card,Delivered
+11228,2025-09-03,129,16,4,0.0,Bank Transfer,Delivered
+10175,2025-09-03,81,16,8,0.1,Cash on Delivery,Delivered
+12056,2025-09-03,105,30,1,0.15,Card,Delivered
+11446,2025-09-03,114,14,3,0.0,Card,Delivered
+12042,2025-09-03,21,1,1,0.05,D17,Cancelled
+12081,2025-09-03,227,25,1,0.05,Card,Delivered
+11154,2025-09-04,123,16,2,0.0,Cash on Delivery,Delivered
+11992,2025-09-04,228,23,6,0.0,Card,Delivered
+12479,2025-09-04,218,15,1,0.15,Cash on Delivery,Delivered
+10395,2025-09-04,280,14,4,0.0,Card,Delivered
+12378,2025-09-04,188,15,5,0.05,Card,Delivered
+12021,2025-09-04,177,15,4,0.0,Cash on Delivery,Delivered
+10623,2025-09-04,119,18,2,0.0,Cash on Delivery,Cancelled
+10156,2025-09-04,120,14,1,0.0,Cash on Delivery,Delivered
+11317,2025-09-05,232,17,3,0.1,Bank Transfer,Delivered
+11312,2025-09-05,13,17,8,0.15,Card,Delivered
+11706,2025-09-05,123,13,2,0.15,Card,Delivered
+10348,2025-09-05,199,9,1,0.15,D17,Cancelled
+10127,2025-09-05,159,19,5,0.0,Card,Returned
+11803,2025-09-05,36,11,1,0.0,Cash on Delivery,Delivered
+12365,2025-09-05,247,1,4,0.15,Cash on Delivery,Delivered
+11733,2025-09-05,106,10,1,0.0,Cash on Delivery,Delivered
+12154,2025-09-05,280,28,1,0.0,Cash on Delivery,Delivered
+10314,2025-09-05,116,13,5,0.1,D17,Delivered
+11778,2025-09-05,224,20,8,0.0,Cash on Delivery,Delivered
+11629,2025-09-06,179,18,4,0.0,D17,Delivered
+10755,2025-09-06,158,13,4,0.0,Card,Delivered
+11435,2025-09-06,59,4,2,0.05,Cash on Delivery,Delivered
+11748,2025-09-06,249,2,1,0.1,Card,Returned
+11497,2025-09-06,48,15,1,0.05,Card,Cancelled
+12070,2025-09-06,143,14,6,0.2,Cash on Delivery,Delivered
+10547,2025-09-06,273,22,1,0.0,Cash on Delivery,Delivered
+11529,2025-09-06,271,18,2,0.1,Card,Delivered
+11258,2025-09-07,81,26,8,0.0,Bank Transfer,Delivered
+11787,2025-09-07,110,18,4,0.05,Card,Cancelled
+10775,2025-09-07,297,16,1,0.0,Cash on Delivery,Delivered
+10316,2025-09-07,4,2,1,0.0,Cash on Delivery,Delivered
+10496,2025-09-08,169,9,1,0.0,Card,Delivered
+12345,2025-09-08,202,25,8,0.0,Card,Delivered
+10959,2025-09-08,19,2,1,0.0,Cash on Delivery,Delivered
+10708,2025-09-09,153,27,3,0.15,Cash on Delivery,Delivered
+12089,2025-09-09,174,9,6,0.0,Cash on Delivery,Delivered
+12329,2025-09-09,185,29,4,0.05,Card,Returned
+12063,2025-09-09,83,14,6,0.15,Cash on Delivery,Delivered
+11033,2025-09-09,210,28,6,0.05,Cash on Delivery,Delivered
+11255,2025-09-09,290,3,3,0.05,Cash on Delivery,Returned
+11937,2025-09-10,261,14,5,0.0,Card,Delivered
+10499,2025-09-10,202,3,2,0.1,Card,Delivered
+10284,2025-09-10,210,17,4,0.05,Cash on Delivery,Delivered
+11790,2025-09-10,72,23,4,0.0,Cash on Delivery,Delivered
+10118,2025-09-10,179,16,4,0.0,Cash on Delivery,Delivered
+11546,2025-09-10,264,20,3,0.0,Card,Delivered
+10612,2025-09-10,68,21,1,0.15,Card,Delivered
+10610,2025-09-11,299,17,1,0.0,Card,Delivered
+11506,2025-09-11,204,17,1,0.2,Card,Delivered
+11663,2025-09-11,261,18,1,0.2,Card,Cancelled
+12366,2025-09-11,34,14,1,0.2,Cash on Delivery,Delivered
+12455,2025-09-11,232,3,1,0.0,Card,Delivered
+11676,2025-09-12,129,14,1,0.0,Cash on Delivery,Delivered
+10224,2025-09-12,30,15,2,0.2,Cash on Delivery,Delivered
+11079,2025-09-12,166,14,5,0.0,Cash on Delivery,Delivered
+10788,2025-09-12,147,10,8,0.2,Card,Delivered
+11082,2025-09-12,281,15,3,0.15,Card,Delivered
+11528,2025-09-12,224,21,5,0.0,Cash on Delivery,Cancelled
+10768,2025-09-12,290,26,8,0.0,Card,Delivered
+10361,2025-09-13,246,5,8,0.0,D17,Delivered
+10290,2025-09-13,179,15,1,0.2,Card,Delivered
+10259,2025-09-13,182,4,6,0.0,Cash on Delivery,Delivered
+10542,2025-09-13,80,8,2,0.0,Card,Delivered
+11272,2025-09-13,217,28,5,0.2,Cash on Delivery,Delivered
+12309,2025-09-13,56,18,1,0.05,Card,Cancelled
+12412,2025-09-13,30,1,4,0.0,Card,Delivered
+11081,2025-09-13,272,14,1,0.0,Card,Delivered
+12387,2025-09-13,85,11,8,0.0,Card,Returned
+12337,2025-09-13,73,29,1,0.0,Cash on Delivery,Cancelled
+11911,2025-09-14,187,28,1,0.1,Cash on Delivery,Delivered
+11867,2025-09-14,112,12,1,0.2,Cash on Delivery,Delivered
+11207,2025-09-14,160,4,3,0.0,Card,Delivered
+10800,2025-09-14,120,15,8,0.1,Card,Delivered
+11579,2025-09-14,239,20,1,0.05,Cash on Delivery,Delivered
+11251,2025-09-14,70,8,6,0.15,Card,Delivered
+12375,2025-09-15,172,14,1,0.2,Cash on Delivery,Delivered
+10960,2025-09-15,196,15,2,0.0,Card,Delivered
+11499,2025-09-15,182,16,2,0.0,Cash on Delivery,Delivered
+10574,2025-09-15,131,4,5,0.0,Cash on Delivery,Delivered
+11174,2025-09-15,247,7,2,0.1,Cash on Delivery,Delivered
+11556,2025-09-15,104,18,3,0.0,Card,Delivered
+10958,2025-09-15,165,15,8,0.0,Bank Transfer,Delivered
+10168,2025-09-15,157,18,2,0.2,Bank Transfer,Delivered
+12028,2025-09-15,253,28,6,0.0,D17,Delivered
+11981,2025-09-15,252,11,1,0.05,D17,Delivered
+12389,2025-09-15,176,20,2,0.0,Card,Delivered
+11760,2025-09-16,100,25,3,0.2,Cash on Delivery,Delivered
+11428,2025-09-16,298,17,5,0.15,Cash on Delivery,Delivered
+10488,2025-09-16,38,19,2,0.05,Card,Delivered
+12467,2025-09-16,85,22,1,0.0,Cash on Delivery,Delivered
+11736,2025-09-16,153,1,6,0.1,Card,Delivered
+11713,2025-09-16,32,17,1,0.1,D17,Delivered
+10040,2025-09-17,118,15,1,0.0,Cash on Delivery,Delivered
+10419,2025-09-17,2,17,1,0.05,D17,Delivered
+10178,2025-09-17,17,27,2,0.2,Card,Cancelled
+10447,2025-09-17,161,4,5,0.1,Card,Delivered
+10981,2025-09-17,220,13,6,0.0,Card,Delivered
+10870,2025-09-17,139,18,2,0.05,Bank Transfer,Delivered
+11662,2025-09-17,204,30,1,0.2,Card,Delivered
+10797,2025-09-18,17,19,2,0.0,Card,Delivered
+10667,2025-09-18,135,16,3,0.2,Cash on Delivery,Delivered
+12466,2025-09-18,99,17,1,0.0,Card,Delivered
+12374,2025-09-19,230,25,4,0.0,Cash on Delivery,Delivered
+10703,2025-09-19,112,17,4,0.0,D17,Delivered
+12014,2025-09-19,54,6,1,0.0,Cash on Delivery,Delivered
+10007,2025-09-19,83,29,5,0.2,Card,Delivered
+10429,2025-09-19,227,25,1,0.1,Card,Delivered
+11478,2025-09-20,19,19,6,0.05,Card,Delivered
+11809,2025-09-20,44,17,4,0.15,D17,Delivered
+10645,2025-09-20,203,29,6,0.15,D17,Delivered
+10934,2025-09-20,198,17,2,0.2,Card,Delivered
+10767,2025-09-20,138,3,1,0.0,D17,Delivered
+10956,2025-09-20,187,26,4,0.2,Bank Transfer,Delivered
+11206,2025-09-21,133,12,6,0.0,D17,Delivered
+10069,2025-09-21,285,27,1,0.15,Card,Delivered
+10730,2025-09-21,25,30,2,0.0,Cash on Delivery,Delivered
+10938,2025-09-21,235,9,2,0.0,Card,Delivered
+12096,2025-09-21,20,14,1,0.15,Bank Transfer,Delivered
+10534,2025-09-21,201,16,5,0.05,D17,Delivered
+12489,2025-09-21,115,13,1,0.1,Card,Delivered
+10856,2025-09-21,211,24,1,0.0,D17,Delivered
+11159,2025-09-22,92,13,1,0.0,Bank Transfer,Delivered
+10061,2025-09-22,15,21,2,0.2,Card,Delivered
+11785,2025-09-22,222,13,2,0.15,Cash on Delivery,Delivered
+11376,2025-09-23,29,4,3,0.05,Cash on Delivery,Delivered
+12171,2025-09-23,31,13,5,0.0,Cash on Delivery,Delivered
+10149,2025-09-23,225,21,2,0.05,Bank Transfer,Returned
+11936,2025-09-23,240,16,3,0.0,D17,Delivered
+10422,2025-09-23,185,6,8,0.15,Cash on Delivery,Returned
+10453,2025-09-23,163,13,1,0.05,Cash on Delivery,Cancelled
+12075,2025-09-23,136,28,1,0.2,Card,Delivered
+10681,2025-09-23,98,18,2,0.2,D17,Delivered
+11339,2025-09-23,48,7,5,0.2,Cash on Delivery,Delivered
+10219,2025-09-23,264,10,6,0.15,Card,Delivered
+12026,2025-09-23,196,25,2,0.0,Cash on Delivery,Delivered
+12085,2025-09-23,285,23,1,0.05,Card,Delivered
+10920,2025-09-24,224,25,4,0.0,D17,Cancelled
+11583,2025-09-24,46,9,1,0.0,Cash on Delivery,Delivered
+10607,2025-09-24,214,12,5,0.0,Cash on Delivery,Returned
+10097,2025-09-24,251,17,1,0.05,Cash on Delivery,Delivered
+10578,2025-09-24,212,4,2,0.0,Cash on Delivery,Delivered
+11266,2025-09-24,270,2,2,0.0,Cash on Delivery,Delivered
+10639,2025-09-24,173,30,8,0.05,Card,Delivered
+11903,2025-09-25,10,15,3,0.0,Card,Delivered
+12073,2025-09-25,177,13,2,0.0,Cash on Delivery,Cancelled
+10251,2025-09-25,65,8,3,0.0,D17,Delivered
+11707,2025-09-25,116,14,1,0.2,Card,Delivered
+10586,2025-09-25,119,4,1,0.05,Cash on Delivery,Cancelled
+10963,2025-09-25,40,13,1,0.0,Card,Delivered
+10939,2025-09-25,192,5,4,0.15,Cash on Delivery,Delivered
+11501,2025-09-25,203,29,8,0.2,Card,Delivered
+12271,2025-09-26,293,15,1,0.15,Card,Delivered
+12463,2025-09-26,68,18,8,0.05,Bank Transfer,Delivered
+10305,2025-09-26,45,16,2,0.2,Cash on Delivery,Delivered
+10653,2025-09-26,106,23,2,0.1,Card,Delivered
+12492,2025-09-26,15,17,2,0.2,Card,Returned
+12135,2025-09-26,25,25,2,0.0,Card,Delivered
+10629,2025-09-26,147,20,1,0.0,D17,Delivered
+11610,2025-09-26,81,6,2,0.0,Cash on Delivery,Delivered
+11644,2025-09-26,146,6,5,0.05,Cash on Delivery,Delivered
+11149,2025-09-26,168,24,1,0.0,Card,Delivered
+12168,2025-09-26,169,25,1,0.1,Card,Delivered
+10906,2025-09-27,175,10,1,0.0,D17,Delivered
+11660,2025-09-27,171,30,6,0.15,Cash on Delivery,Cancelled
+12020,2025-09-27,256,14,1,0.0,Card,Delivered
+11856,2025-09-27,59,9,6,0.2,Cash on Delivery,Delivered
+11144,2025-09-27,259,14,5,0.0,Card,Delivered
+10632,2025-09-27,5,29,2,0.0,Card,Delivered
+10930,2025-09-27,48,27,2,0.0,Bank Transfer,Returned
+12322,2025-09-28,136,25,8,0.0,Card,Delivered
+11623,2025-09-28,284,11,8,0.2,Cash on Delivery,Returned
+11649,2025-09-28,258,23,1,0.1,Cash on Delivery,Delivered
+11384,2025-09-28,295,14,5,0.0,Card,Delivered
+10827,2025-10-01,215,27,1,0.0,Cash on Delivery,Delivered
+10407,2025-10-01,114,11,5,0.0,D17,Delivered
+10437,2025-10-01,235,8,2,0.0,Cash on Delivery,Delivered
+12222,2025-10-01,181,11,1,0.0,Card,Cancelled
+12172,2025-10-01,1,21,4,0.15,Cash on Delivery,Delivered
+11684,2025-10-01,249,17,5,0.05,Bank Transfer,Delivered
+12352,2025-10-01,69,14,2,0.05,Card,Cancelled
+11463,2025-10-01,284,25,6,0.15,Card,Delivered
+10194,2025-10-01,132,3,5,0.05,Card,Delivered
+10008,2025-10-02,266,7,8,0.05,Card,Delivered
+11989,2025-10-02,257,24,1,0.15,D17,Delivered
+11460,2025-10-03,209,6,3,0.0,D17,Delivered
+10380,2025-10-03,106,17,2,0.0,Cash on Delivery,Delivered
+10065,2025-10-03,270,6,1,0.2,Card,Delivered
+10844,2025-10-03,86,8,1,0.0,D17,Delivered
+12321,2025-10-03,298,20,6,0.0,D17,Delivered
+10125,2025-10-03,70,19,1,0.0,Card,Delivered
+12334,2025-10-03,104,1,1,0.0,Cash on Delivery,Delivered
+11020,2025-10-03,211,21,5,0.0,Card,Delivered
+12384,2025-10-04,124,18,1,0.0,D17,Delivered
+12470,2025-10-04,32,15,5,0.2,Card,Delivered
+10500,2025-10-04,229,17,6,0.2,Card,Delivered
+10678,2025-10-04,126,26,2,0.0,Cash on Delivery,Delivered
+12189,2025-10-05,263,7,1,0.0,Bank Transfer,Delivered
+10005,2025-10-05,26,6,6,0.05,Cash on Delivery,Delivered
+11198,2025-10-05,224,17,1,0.0,Cash on Delivery,Delivered
+11719,2025-10-05,154,27,5,0.2,Cash on Delivery,Delivered
+10685,2025-10-05,269,3,1,0.1,Card,Delivered
+11146,2025-10-06,57,22,1,0.05,D17,Delivered
+11984,2025-10-06,241,17,5,0.0,Cash on Delivery,Delivered
+12451,2025-10-06,156,6,5,0.0,Card,Delivered
+10279,2025-10-06,10,12,2,0.15,Bank Transfer,Delivered
+12388,2025-10-06,46,26,2,0.05,Cash on Delivery,Delivered
+10840,2025-10-06,82,28,8,0.2,Card,Delivered
+11026,2025-10-06,167,16,1,0.0,Card,Cancelled
+11310,2025-10-06,143,29,8,0.05,Card,Delivered
+10504,2025-10-06,80,18,1,0.2,Card,Delivered
+11232,2025-10-06,279,18,5,0.1,Card,Delivered
+12431,2025-10-06,132,25,1,0.0,Bank Transfer,Delivered
+12245,2025-10-07,2,14,2,0.0,D17,Delivered
+11009,2025-10-07,77,13,1,0.0,Card,Delivered
+10493,2025-10-07,95,21,6,0.0,Cash on Delivery,Delivered
+11331,2025-10-07,230,7,1,0.0,Cash on Delivery,Delivered
+11532,2025-10-07,20,8,1,0.0,Card,Delivered
+11200,2025-10-07,264,16,5,0.0,Card,Delivered
+10880,2025-10-07,142,11,1,0.0,Cash on Delivery,Delivered
+11343,2025-10-07,214,30,1,0.2,Cash on Delivery,Delivered
+11267,2025-10-07,245,13,5,0.2,Bank Transfer,Delivered
+10713,2025-10-08,232,17,8,0.0,D17,Delivered
+12332,2025-10-08,25,6,2,0.1,Cash on Delivery,Delivered
+11530,2025-10-08,149,25,1,0.05,Cash on Delivery,Cancelled
+10108,2025-10-08,147,9,1,0.0,Cash on Delivery,Delivered
+10726,2025-10-08,146,26,1,0.0,D17,Delivered
+11090,2025-10-08,124,13,6,0.2,Card,Delivered
+11523,2025-10-08,293,15,5,0.2,Cash on Delivery,Delivered
+11756,2025-10-08,185,19,1,0.0,Card,Delivered
+11057,2025-10-09,13,4,4,0.0,D17,Delivered
+10099,2025-10-09,6,13,2,0.0,Cash on Delivery,Delivered
+11533,2025-10-09,174,24,1,0.1,Card,Delivered
+11616,2025-10-09,268,2,1,0.0,Cash on Delivery,Delivered
+10246,2025-10-09,114,23,3,0.15,Cash on Delivery,Delivered
+11263,2025-10-09,56,30,4,0.0,Card,Delivered
+11639,2025-10-09,38,29,2,0.15,D17,Delivered
+12439,2025-10-09,218,15,1,0.2,Cash on Delivery,Delivered
+11833,2025-10-09,4,1,2,0.0,Cash on Delivery,Delivered
+10103,2025-10-09,41,3,6,0.1,D17,Delivered
+12237,2025-10-09,184,17,6,0.1,Cash on Delivery,Delivered
+11214,2025-10-10,183,14,1,0.2,Cash on Delivery,Returned
+10439,2025-10-10,87,26,6,0.05,Bank Transfer,Delivered
+11466,2025-10-10,118,21,1,0.05,Cash on Delivery,Cancelled
+12005,2025-10-10,167,10,8,0.15,Bank Transfer,Delivered
+11567,2025-10-10,229,27,1,0.2,Card,Delivered
+12448,2025-10-10,43,17,5,0.0,Cash on Delivery,Delivered
+11052,2025-10-11,7,12,6,0.0,Card,Delivered
+10249,2025-10-11,211,29,8,0.2,D17,Delivered
+12427,2025-10-11,204,14,8,0.0,Cash on Delivery,Delivered
+11603,2025-10-11,61,12,3,0.0,Card,Delivered
+11367,2025-10-11,297,13,2,0.0,Card,Delivered
+12380,2025-10-11,231,30,6,0.15,Bank Transfer,Delivered
+10719,2025-10-11,210,13,1,0.15,Card,Delivered
+11857,2025-10-11,198,22,8,0.15,Card,Delivered
+12265,2025-10-12,242,13,1,0.1,Card,Delivered
+10553,2025-10-12,200,26,6,0.0,D17,Delivered
+10740,2025-10-12,289,1,8,0.15,Card,Delivered
+12256,2025-10-12,261,22,1,0.0,Cash on Delivery,Delivered
+12072,2025-10-12,270,11,3,0.1,Card,Delivered
+10559,2025-10-13,294,29,2,0.0,Card,Delivered
+10360,2025-10-13,273,3,3,0.15,D17,Delivered
+12101,2025-10-13,298,13,1,0.0,Card,Delivered
+10554,2025-10-14,237,16,3,0.2,Cash on Delivery,Cancelled
+12011,2025-10-14,6,26,5,0.0,Card,Delivered
+10313,2025-10-14,35,27,1,0.05,Cash on Delivery,Delivered
+11562,2025-10-14,23,15,8,0.0,Bank Transfer,Cancelled
+12295,2025-10-14,123,13,1,0.1,Cash on Delivery,Delivered
+10467,2025-10-14,33,5,1,0.0,Card,Delivered
+11468,2025-10-14,266,30,1,0.2,Card,Cancelled
+11461,2025-10-14,285,30,2,0.05,Card,Delivered
+11136,2025-10-14,124,14,2,0.05,Card,Delivered
+10826,2025-10-14,209,14,4,0.05,Card,Delivered
+12491,2025-10-15,96,14,1,0.2,Card,Delivered
+12225,2025-10-15,54,1,1,0.0,Card,Delivered
+12497,2025-10-15,269,24,2,0.05,Cash on Delivery,Delivered
+10537,2025-10-15,136,15,2,0.0,Bank Transfer,Delivered
+10440,2025-10-15,141,13,8,0.0,Bank Transfer,Delivered
+12433,2025-10-15,119,20,1,0.0,Cash on Delivery,Delivered
+11475,2025-10-15,81,21,8,0.2,Cash on Delivery,Delivered
+11800,2025-10-15,275,3,3,0.2,Cash on Delivery,Delivered
+11703,2025-10-15,148,6,5,0.0,Card,Delivered
+10731,2025-10-15,187,6,2,0.15,Cash on Delivery,Delivered
+10739,2025-10-15,117,17,1,0.2,D17,Delivered
+11666,2025-10-15,80,21,1,0.0,Cash on Delivery,Cancelled
+12109,2025-10-16,196,6,2,0.2,D17,Delivered
+12016,2025-10-16,110,15,6,0.05,Cash on Delivery,Delivered
+12086,2025-10-16,180,16,5,0.05,Cash on Delivery,Delivered
+10275,2025-10-16,69,27,1,0.0,Cash on Delivery,Delivered
+10624,2025-10-16,250,2,3,0.05,Cash on Delivery,Cancelled
+10140,2025-10-16,23,16,6,0.05,D17,Cancelled
+11846,2025-10-16,88,9,1,0.0,Cash on Delivery,Delivered
+11488,2025-10-17,126,12,4,0.0,Cash on Delivery,Delivered
+12239,2025-10-17,132,25,5,0.0,Card,Delivered
+12279,2025-10-17,223,19,8,0.15,Cash on Delivery,Cancelled
+12018,2025-10-17,258,11,2,0.2,Card,Cancelled
+11527,2025-10-17,27,23,1,0.0,Card,Delivered
+11964,2025-10-17,12,8,8,0.2,D17,Delivered
+10094,2025-10-17,3,19,6,0.0,Bank Transfer,Delivered
+12493,2025-10-17,223,3,4,0.2,Cash on Delivery,Cancelled
+11132,2025-10-17,127,17,1,0.1,Cash on Delivery,Delivered
+10913,2025-10-17,98,21,1,0.0,Card,Delivered
+10046,2025-10-17,192,15,3,0.0,Card,Returned
+11477,2025-10-18,243,16,1,0.15,Cash on Delivery,Delivered
+11965,2025-10-18,294,14,2,0.0,D17,Delivered
+10808,2025-10-18,69,28,2,0.2,Bank Transfer,Delivered
+11221,2025-10-18,63,18,8,0.05,Card,Delivered
+12001,2025-10-18,75,21,1,0.15,Card,Delivered
+10051,2025-10-19,56,6,2,0.05,Card,Returned
+10823,2025-10-19,21,12,2,0.15,Card,Delivered
+12243,2025-10-19,6,27,1,0.0,Bank Transfer,Delivered
+11503,2025-10-19,206,24,1,0.15,D17,Delivered
+11102,2025-10-19,79,28,5,0.0,Card,Delivered
+12323,2025-10-20,199,24,5,0.1,Bank Transfer,Delivered
+10024,2025-10-20,41,27,3,0.05,D17,Delivered
+12275,2025-10-20,270,16,2,0.15,Bank Transfer,Delivered
+10810,2025-10-21,280,1,2,0.2,Cash on Delivery,Delivered
+11167,2025-10-21,128,8,2,0.2,Card,Returned
+10291,2025-10-21,86,13,6,0.05,Bank Transfer,Delivered
+10362,2025-10-21,22,14,2,0.0,D17,Returned
+10272,2025-10-21,39,13,3,0.0,Bank Transfer,Delivered
+11074,2025-10-21,216,20,2,0.15,Card,Delivered
+10110,2025-10-21,286,16,4,0.15,Cash on Delivery,Cancelled
+11123,2025-10-21,274,23,1,0.05,Cash on Delivery,Delivered
+11584,2025-10-21,68,1,3,0.15,Cash on Delivery,Delivered
+11453,2025-10-21,228,22,4,0.0,Cash on Delivery,Delivered
+10581,2025-10-21,238,5,1,0.1,Card,Delivered
+12097,2025-10-22,13,13,8,0.0,Cash on Delivery,Delivered
+10198,2025-10-22,259,8,2,0.0,D17,Delivered
+12163,2025-10-22,281,2,4,0.05,Cash on Delivery,Delivered
+11869,2025-10-22,48,25,8,0.2,Card,Delivered
+11979,2025-10-22,187,13,5,0.2,Card,Delivered
+10296,2025-10-22,296,12,1,0.0,Card,Delivered
+10093,2025-10-22,42,21,2,0.15,Card,Delivered
+11103,2025-10-22,86,21,1,0.0,D17,Returned
+11597,2025-10-22,239,13,1,0.15,Cash on Delivery,Delivered
+10927,2025-10-22,37,15,5,0.0,D17,Delivered
+10813,2025-10-23,285,1,6,0.0,Card,Delivered
+10766,2025-10-23,189,15,8,0.1,Bank Transfer,Delivered
+11242,2025-10-23,73,19,1,0.0,Card,Delivered
+12432,2025-10-23,126,12,2,0.0,Cash on Delivery,Delivered
+10188,2025-10-23,82,26,4,0.2,Bank Transfer,Delivered
+12327,2025-10-23,25,26,1,0.1,Cash on Delivery,Delivered
+11500,2025-10-23,284,14,1,0.0,Card,Delivered
+11892,2025-10-23,4,16,8,0.0,Card,Delivered
+10028,2025-10-24,143,30,3,0.15,Card,Delivered
+10527,2025-10-24,231,18,8,0.05,D17,Delivered
+12359,2025-10-24,152,11,4,0.0,Cash on Delivery,Delivered
+11521,2025-10-24,111,4,2,0.2,Bank Transfer,Delivered
+10707,2025-10-24,109,11,1,0.15,Cash on Delivery,Delivered
+11093,2025-10-24,274,10,4,0.2,Card,Delivered
+12180,2025-10-25,30,17,6,0.2,Card,Delivered
+10995,2025-10-25,193,17,4,0.0,Cash on Delivery,Delivered
+12361,2025-10-25,250,16,4,0.05,Cash on Delivery,Delivered
+10829,2025-10-25,91,10,1,0.15,Cash on Delivery,Delivered
+11380,2025-10-25,242,28,1,0.15,Cash on Delivery,Delivered
+11906,2025-10-25,207,12,2,0.05,D17,Delivered
+10990,2025-10-25,280,3,1,0.0,Cash on Delivery,Delivered
+10961,2025-10-25,3,5,3,0.05,Card,Delivered
+11191,2025-10-25,47,16,6,0.0,D17,Cancelled
+12166,2025-10-25,268,17,4,0.1,Cash on Delivery,Delivered
+12023,2025-10-26,91,2,2,0.0,D17,Delivered
+10087,2025-10-26,220,25,1,0.1,Bank Transfer,Delivered
+11163,2025-10-26,281,23,1,0.0,Card,Delivered
+11725,2025-10-26,94,17,3,0.0,Cash on Delivery,Delivered
+12127,2025-10-26,67,18,5,0.0,Card,Delivered
+10879,2025-10-26,45,14,1,0.1,Bank Transfer,Delivered
+12121,2025-10-26,68,26,2,0.2,Bank Transfer,Delivered
+10878,2025-10-26,278,26,1,0.1,Card,Delivered
+10388,2025-10-26,139,9,4,0.0,Cash on Delivery,Delivered
+11997,2025-10-27,185,5,8,0.0,Bank Transfer,Delivered
+11096,2025-10-27,187,22,1,0.2,Card,Delivered
+11836,2025-10-27,89,23,1,0.15,Card,Returned
+10782,2025-10-27,3,27,4,0.05,Bank Transfer,Cancelled
+12153,2025-10-27,79,21,4,0.05,Bank Transfer,Delivered
+11988,2025-10-28,229,28,4,0.0,Card,Delivered
+11586,2025-10-28,169,13,1,0.0,D17,Delivered
+11327,2025-10-28,33,16,3,0.05,Card,Delivered
+11277,2025-10-28,185,29,2,0.0,Cash on Delivery,Delivered
+12490,2025-11-01,158,28,6,0.1,Bank Transfer,Delivered
+10451,2025-11-01,295,4,4,0.15,Card,Delivered
+11786,2025-11-01,96,21,1,0.0,Card,Delivered
+11391,2025-11-01,239,12,3,0.1,D17,Delivered
+10220,2025-11-01,60,13,4,0.15,Bank Transfer,Delivered
+10637,2025-11-01,241,18,1,0.0,Card,Delivered
+12281,2025-11-01,68,20,8,0.0,Cash on Delivery,Delivered
+10457,2025-11-01,180,19,1,0.15,Cash on Delivery,Delivered
+11569,2025-11-01,91,14,6,0.0,Cash on Delivery,Delivered
+11388,2025-11-01,283,12,1,0.1,Card,Delivered
+12311,2025-11-01,86,15,1,0.0,Bank Transfer,Delivered
+10745,2025-11-02,279,10,1,0.15,Cash on Delivery,Delivered
+10732,2025-11-02,163,22,1,0.05,Card,Cancelled
+11238,2025-11-02,168,1,4,0.0,D17,Delivered
+10456,2025-11-02,283,25,1,0.05,Bank Transfer,Delivered
+11484,2025-11-02,272,9,2,0.15,Card,Delivered
+11246,2025-11-02,48,11,1,0.0,Card,Returned
+11216,2025-11-02,150,12,6,0.05,Cash on Delivery,Delivered
+10509,2025-11-02,11,4,2,0.0,Card,Delivered
+10594,2025-11-02,59,26,5,0.0,D17,Delivered
+11557,2025-11-02,20,17,3,0.0,D17,Cancelled
+11962,2025-11-02,280,23,1,0.0,D17,Delivered
+10872,2025-11-03,153,14,3,0.15,D17,Delivered
+10004,2025-11-03,236,23,8,0.15,Card,Delivered
+11870,2025-11-03,185,13,1,0.0,Card,Delivered
+10792,2025-11-03,35,8,1,0.0,Bank Transfer,Delivered
+10799,2025-11-03,290,30,5,0.0,Cash on Delivery,Delivered
+10697,2025-11-04,93,8,1,0.15,Cash on Delivery,Delivered
+10424,2025-11-04,54,10,4,0.05,Card,Delivered
+11673,2025-11-04,45,25,2,0.0,Cash on Delivery,Delivered
+12411,2025-11-04,97,17,1,0.1,Card,Delivered
+11345,2025-11-04,141,16,1,0.15,Cash on Delivery,Returned
+11456,2025-11-04,257,18,8,0.0,D17,Delivered
+10729,2025-11-04,77,18,1,0.05,Card,Delivered
+10644,2025-11-05,30,1,5,0.0,Cash on Delivery,Delivered
+10030,2025-11-05,112,24,3,0.1,Cash on Delivery,Returned
+10855,2025-11-05,250,23,5,0.0,Cash on Delivery,Delivered
+11969,2025-11-05,172,25,3,0.0,Card,Cancelled
+11360,2025-11-05,6,17,8,0.15,Cash on Delivery,Delivered
+12261,2025-11-05,246,16,8,0.0,Cash on Delivery,Delivered
+10278,2025-11-05,69,24,1,0.1,Cash on Delivery,Delivered
+10789,2025-11-06,180,18,8,0.0,Card,Delivered
+10865,2025-11-06,234,15,2,0.0,Cash on Delivery,Delivered
+10319,2025-11-06,35,26,2,0.0,Card,Delivered
+12346,2025-11-06,129,11,2,0.15,D17,Delivered
+11054,2025-11-06,210,1,5,0.15,Bank Transfer,Delivered
+10195,2025-11-06,17,25,2,0.0,Card,Returned
+11262,2025-11-06,192,14,1,0.05,Card,Delivered
+11642,2025-11-06,42,22,2,0.0,Card,Delivered
+10356,2025-11-07,125,9,1,0.0,Card,Delivered
+10709,2025-11-07,94,18,3,0.1,Cash on Delivery,Cancelled
+12307,2025-11-07,198,8,4,0.0,Cash on Delivery,Delivered
+10107,2025-11-07,98,14,1,0.0,Cash on Delivery,Delivered
+11667,2025-11-07,174,9,5,0.0,Cash on Delivery,Delivered
+10833,2025-11-07,66,29,1,0.05,Card,Delivered
+11293,2025-11-08,93,13,1,0.1,Cash on Delivery,Cancelled
+10190,2025-11-08,125,10,6,0.2,D17,Delivered
+12390,2025-11-08,60,10,5,0.0,Cash on Delivery,Delivered
+11135,2025-11-08,202,23,2,0.2,Card,Delivered
+11474,2025-11-08,155,7,4,0.0,Cash on Delivery,Delivered
+10104,2025-11-08,55,13,2,0.1,Card,Delivered
+10292,2025-11-08,300,16,4,0.05,Cash on Delivery,Delivered
+11275,2025-11-08,264,13,6,0.0,Bank Transfer,Delivered
+12402,2025-11-08,96,15,8,0.15,Cash on Delivery,Cancelled
+10433,2025-11-08,45,18,1,0.0,Card,Delivered
+11019,2025-11-08,221,4,8,0.05,Cash on Delivery,Delivered
+11072,2025-11-09,89,3,5,0.0,Bank Transfer,Delivered
+12382,2025-11-09,264,9,5,0.0,Card,Delivered
+11244,2025-11-09,19,30,1,0.15,Bank Transfer,Delivered
+10595,2025-11-09,138,22,4,0.05,Cash on Delivery,Delivered
+10722,2025-11-09,200,27,1,0.0,Cash on Delivery,Delivered
+12102,2025-11-10,241,16,6,0.2,Cash on Delivery,Delivered
+10940,2025-11-10,216,12,1,0.05,Card,Delivered
+10482,2025-11-10,63,12,5,0.0,D17,Delivered
+10242,2025-11-10,287,30,6,0.0,Card,Delivered
+11095,2025-11-10,116,4,1,0.1,Cash on Delivery,Delivered
+10274,2025-11-10,125,24,8,0.2,Card,Delivered
+10943,2025-11-10,293,15,1,0.1,Bank Transfer,Delivered
+12252,2025-11-10,179,25,8,0.0,Cash on Delivery,Delivered
+10415,2025-11-10,114,30,8,0.0,Cash on Delivery,Cancelled
+12139,2025-11-10,143,20,6,0.1,Card,Delivered
+10603,2025-11-11,213,12,4,0.0,Bank Transfer,Delivered
+11882,2025-11-11,76,13,1,0.15,Bank Transfer,Delivered
+11042,2025-11-11,171,2,3,0.0,D17,Delivered
+11270,2025-11-11,55,4,2,0.15,Cash on Delivery,Cancelled
+10976,2025-11-12,123,14,2,0.05,Cash on Delivery,Delivered
+11430,2025-11-12,28,17,3,0.2,D17,Delivered
+11330,2025-11-12,233,24,2,0.0,Bank Transfer,Delivered
+10867,2025-11-12,74,18,8,0.05,D17,Delivered
+10572,2025-11-12,199,20,6,0.1,Card,Delivered
+10752,2025-11-12,262,20,8,0.2,Cash on Delivery,Delivered
+10997,2025-11-13,59,17,2,0.15,D17,Delivered
+11559,2025-11-13,183,9,6,0.05,Card,Delivered
+10836,2025-11-13,146,22,8,0.15,Card,Delivered
+11162,2025-11-13,26,1,1,0.2,Cash on Delivery,Delivered
+11771,2025-11-13,261,28,8,0.0,Card,Delivered
+11186,2025-11-13,148,10,2,0.05,Bank Transfer,Delivered
+10947,2025-11-13,250,30,2,0.0,Card,Delivered
+10631,2025-11-14,39,4,8,0.1,Cash on Delivery,Delivered
+11291,2025-11-14,89,23,8,0.2,Cash on Delivery,Delivered
+11687,2025-11-14,133,14,5,0.05,Card,Delivered
+11990,2025-11-14,67,18,1,0.1,Cash on Delivery,Delivered
+11602,2025-11-14,48,20,2,0.15,Card,Delivered
+11114,2025-11-14,124,21,2,0.0,Cash on Delivery,Delivered
+10671,2025-11-14,256,9,3,0.0,D17,Delivered
+11411,2025-11-14,245,29,1,0.05,Cash on Delivery,Delivered
+11868,2025-11-14,38,20,8,0.2,Card,Delivered
+10204,2025-11-14,43,29,2,0.1,D17,Delivered
+11601,2025-11-15,242,15,2,0.0,Cash on Delivery,Delivered
+10710,2025-11-15,174,16,1,0.05,Cash on Delivery,Delivered
+11031,2025-11-15,16,23,4,0.0,Cash on Delivery,Delivered
+11728,2025-11-15,248,16,8,0.0,Card,Delivered
+11858,2025-11-15,139,17,4,0.1,D17,Delivered
+12169,2025-11-15,193,11,2,0.2,Cash on Delivery,Delivered
+10153,2025-11-15,210,13,1,0.0,Bank Transfer,Delivered
+10470,2025-11-16,156,29,2,0.0,Card,Delivered
+12203,2025-11-16,156,2,2,0.0,Cash on Delivery,Delivered
+11219,2025-11-16,84,17,5,0.05,Bank Transfer,Delivered
+12061,2025-11-16,79,12,8,0.05,D17,Delivered
+11423,2025-11-16,167,9,6,0.15,Card,Returned
+10635,2025-11-16,220,27,6,0.0,Cash on Delivery,Cancelled
+11035,2025-11-16,295,20,6,0.0,Card,Delivered
+11902,2025-11-16,8,22,8,0.0,Cash on Delivery,Delivered
+11619,2025-11-16,17,15,1,0.2,Card,Delivered
+11887,2025-11-16,187,10,8,0.05,Card,Delivered
+11284,2025-11-16,175,30,1,0.1,Card,Delivered
+11671,2025-11-17,142,7,1,0.15,Card,Delivered
+10351,2025-11-17,94,12,6,0.15,Card,Delivered
+11656,2025-11-17,106,29,5,0.1,Cash on Delivery,Delivered
+11060,2025-11-17,273,12,2,0.0,Card,Delivered
+11432,2025-11-17,63,17,1,0.15,Card,Delivered
+11625,2025-11-17,153,18,2,0.0,Card,Cancelled
+11948,2025-11-18,88,4,5,0.0,Card,Delivered
+12314,2025-11-18,15,24,8,0.2,Card,Delivered
+11073,2025-11-18,289,28,4,0.0,Card,Delivered
+12226,2025-11-18,89,7,2,0.0,Bank Transfer,Delivered
+11905,2025-11-18,159,6,2,0.0,D17,Delivered
+10404,2025-11-18,44,14,3,0.0,Card,Delivered
+10692,2025-11-18,4,29,1,0.05,Bank Transfer,Delivered
+10080,2025-11-18,192,13,6,0.0,Card,Delivered
+11300,2025-11-19,244,21,3,0.0,Card,Delivered
+11692,2025-11-19,138,13,3,0.0,D17,Delivered
+10016,2025-11-19,16,10,5,0.0,Cash on Delivery,Delivered
+11783,2025-11-19,229,19,1,0.15,Cash on Delivery,Delivered
+12158,2025-11-19,111,16,8,0.1,Card,Delivered
+11949,2025-11-19,132,11,6,0.1,Cash on Delivery,Delivered
+11594,2025-11-19,113,28,1,0.1,Cash on Delivery,Delivered
+10944,2025-11-19,232,10,8,0.0,D17,Returned
+12290,2025-11-19,180,12,6,0.1,Cash on Delivery,Delivered
+10749,2025-11-19,166,8,1,0.0,Card,Delivered
+10893,2025-11-20,130,16,1,0.05,Card,Delivered
+11526,2025-11-20,32,19,2,0.15,Card,Delivered
+11092,2025-11-20,75,14,5,0.05,Cash on Delivery,Delivered
+12105,2025-11-20,78,20,2,0.15,Cash on Delivery,Delivered
+10765,2025-11-20,32,10,8,0.0,D17,Delivered
+11968,2025-11-20,195,13,5,0.0,Cash on Delivery,Cancelled
+10510,2025-11-20,76,10,4,0.15,Cash on Delivery,Delivered
+11519,2025-11-20,57,1,3,0.0,Cash on Delivery,Delivered
+11874,2025-11-21,101,15,5,0.15,Cash on Delivery,Delivered
+12424,2025-11-21,214,19,3,0.05,Card,Delivered
+11215,2025-11-21,21,10,2,0.0,D17,Delivered
+11364,2025-11-21,128,25,1,0.0,Card,Delivered
+10417,2025-11-21,136,3,2,0.05,Cash on Delivery,Cancelled
+10454,2025-11-21,67,13,4,0.0,Cash on Delivery,Delivered
+11508,2025-11-21,125,26,5,0.15,Card,Delivered
+10461,2025-11-21,15,5,6,0.05,D17,Delivered
+10618,2025-11-21,39,13,6,0.0,Bank Transfer,Delivered
+12370,2025-11-22,121,20,8,0.05,Cash on Delivery,Delivered
+11493,2025-11-22,166,10,2,0.0,Card,Delivered
+10057,2025-11-22,241,3,1,0.1,Card,Delivered
+10477,2025-11-22,194,28,2,0.1,Cash on Delivery,Delivered
+11252,2025-11-22,7,17,3,0.2,Card,Delivered
+10146,2025-11-22,298,1,1,0.0,D17,Delivered
+10142,2025-11-22,279,17,4,0.2,D17,Delivered
+11862,2025-11-22,288,1,1,0.15,Cash on Delivery,Delivered
+11580,2025-11-23,295,21,4,0.15,Card,Delivered
+10608,2025-11-23,154,2,1,0.05,Bank Transfer,Delivered
+12396,2025-11-23,161,29,5,0.1,Cash on Delivery,Cancelled
+12002,2025-11-23,64,12,5,0.0,Cash on Delivery,Delivered
+11606,2025-11-23,94,11,1,0.15,Cash on Delivery,Delivered
+11318,2025-11-23,273,18,2,0.1,Cash on Delivery,Cancelled
+10132,2025-11-23,153,18,3,0.1,Card,Delivered
+11593,2025-11-23,166,18,8,0.2,D17,Delivered
+11654,2025-11-23,12,26,8,0.15,D17,Returned
+11509,2025-11-23,185,19,1,0.05,Cash on Delivery,Delivered
+11424,2025-11-23,117,26,3,0.15,D17,Delivered
+10483,2025-11-24,204,22,1,0.05,Card,Delivered
+12407,2025-11-24,253,30,2,0.05,Card,Delivered
+11018,2025-11-24,174,23,1,0.2,Cash on Delivery,Delivered
+11495,2025-11-24,200,8,5,0.15,D17,Delivered
+10988,2025-11-24,81,9,1,0.0,Cash on Delivery,Delivered
+10405,2025-11-25,250,8,5,0.0,D17,Delivered
+12472,2025-11-25,278,9,1,0.05,Card,Delivered
+11799,2025-11-25,17,22,1,0.0,D17,Delivered
+10155,2025-11-25,28,10,6,0.0,Cash on Delivery,Delivered
+10638,2025-11-26,115,17,5,0.15,Cash on Delivery,Delivered
+10795,2025-11-26,110,26,2,0.1,Cash on Delivery,Delivered
+11055,2025-11-26,15,27,8,0.05,Cash on Delivery,Delivered
+11389,2025-11-26,94,6,2,0.0,Bank Transfer,Delivered
+12250,2025-11-26,107,8,2,0.0,Card,Delivered
+11942,2025-11-26,138,30,1,0.05,Card,Delivered
+10408,2025-11-26,224,14,4,0.15,Cash on Delivery,Delivered
+12181,2025-11-26,293,5,8,0.0,Cash on Delivery,Delivered
+11724,2025-11-27,286,6,2,0.1,D17,Cancelled
+10964,2025-11-27,227,16,4,0.0,Bank Transfer,Delivered
+11431,2025-11-27,264,21,1,0.0,Cash on Delivery,Delivered
+11919,2025-11-27,282,15,1,0.1,Card,Delivered
+10562,2025-11-27,232,18,1,0.0,Cash on Delivery,Delivered
+11957,2025-11-27,186,13,2,0.2,Bank Transfer,Delivered
+11518,2025-11-27,75,10,3,0.0,Bank Transfer,Delivered
+10621,2025-11-27,31,11,4,0.1,Cash on Delivery,Delivered
+12098,2025-11-27,280,14,5,0.15,Card,Delivered
+11827,2025-11-27,133,6,1,0.0,Card,Delivered
+10332,2025-11-28,278,17,6,0.05,Card,Delivered
+11925,2025-11-28,86,30,1,0.1,Cash on Delivery,Delivered
+12320,2025-11-28,224,21,1,0.1,Cash on Delivery,Delivered
+11578,2025-11-28,220,5,1,0.15,Cash on Delivery,Cancelled
+12058,2025-11-28,185,15,8,0.0,Card,Delivered
+10018,2025-11-28,230,24,3,0.0,Cash on Delivery,Delivered
+11224,2025-11-28,198,5,1,0.0,Bank Transfer,Delivered
+10066,2025-12-01,238,29,1,0.0,Card,Delivered
+10515,2025-12-01,249,28,3,0.05,Cash on Delivery,Delivered
+11877,2025-12-01,83,6,2,0.2,Card,Delivered
+10549,2025-12-01,217,15,1,0.2,Card,Delivered
+10196,2025-12-01,25,9,2,0.0,Cash on Delivery,Delivered
+12093,2025-12-01,282,22,3,0.05,Card,Delivered
+10255,2025-12-01,196,8,4,0.0,D17,Delivered
+11419,2025-12-01,135,12,3,0.0,Cash on Delivery,Delivered
+11621,2025-12-01,144,28,1,0.05,Card,Delivered
+11290,2025-12-01,218,4,6,0.0,Cash on Delivery,Delivered
+12095,2025-12-01,86,25,2,0.0,Cash on Delivery,Delivered
+10762,2025-12-01,198,22,4,0.0,Card,Returned
+12368,2025-12-01,186,7,5,0.05,D17,Delivered
+10369,2025-12-01,223,11,1,0.05,Cash on Delivery,Delivered
+12019,2025-12-02,162,6,1,0.0,Card,Cancelled
+12071,2025-12-02,257,11,4,0.15,D17,Delivered
+10770,2025-12-02,280,13,3,0.05,Cash on Delivery,Delivered
+11943,2025-12-02,284,19,1,0.05,Cash on Delivery,Delivered
+12111,2025-12-02,2,4,5,0.0,Card,Delivered
+10513,2025-12-02,135,17,6,0.1,Card,Delivered
+10239,2025-12-02,241,2,6,0.0,D17,Delivered
+11890,2025-12-02,130,20,1,0.0,Cash on Delivery,Delivered
+11166,2025-12-02,187,15,3,0.15,Bank Transfer,Cancelled
+10911,2025-12-02,298,18,4,0.05,Cash on Delivery,Cancelled
+11346,2025-12-02,61,19,1,0.2,Card,Delivered
+10521,2025-12-02,7,15,1,0.15,Bank Transfer,Delivered
+10015,2025-12-03,23,13,1,0.15,Card,Delivered
+10165,2025-12-03,228,3,3,0.2,Card,Delivered
+10001,2025-12-03,72,16,6,0.15,D17,Delivered
+10673,2025-12-03,42,5,1,0.0,D17,Delivered
+12200,2025-12-03,266,17,4,0.0,Cash on Delivery,Delivered
+11941,2025-12-03,53,1,1,0.05,Cash on Delivery,Delivered
+11323,2025-12-03,128,12,8,0.1,D17,Delivered
+10972,2025-12-03,81,10,5,0.0,Card,Delivered
+11155,2025-12-03,87,6,1,0.0,Card,Delivered
+10987,2025-12-03,178,28,1,0.0,D17,Returned
+11788,2025-12-03,92,29,1,0.15,Cash on Delivery,Delivered
+10663,2025-12-03,256,16,2,0.0,Card,Delivered
+12122,2025-12-04,109,13,1,0.2,Cash on Delivery,Delivered
+12423,2025-12-04,13,2,1,0.05,Cash on Delivery,Delivered
+11694,2025-12-04,110,18,5,0.0,Bank Transfer,Delivered
+11359,2025-12-04,176,17,2,0.05,Cash on Delivery,Delivered
+12054,2025-12-04,201,29,1,0.0,Cash on Delivery,Delivered
+12454,2025-12-04,178,22,4,0.0,Card,Delivered
+11058,2025-12-04,100,15,1,0.0,Cash on Delivery,Cancelled
+11832,2025-12-04,259,9,8,0.15,Card,Delivered
+10917,2025-12-04,192,28,4,0.0,Bank Transfer,Cancelled
+11953,2025-12-04,83,12,1,0.15,Card,Delivered
+10555,2025-12-04,139,6,2,0.0,Bank Transfer,Delivered
+12046,2025-12-05,265,2,8,0.0,Card,Delivered
+11795,2025-12-05,53,3,5,0.0,Bank Transfer,Delivered
+10176,2025-12-05,89,5,1,0.15,Cash on Delivery,Cancelled
+11147,2025-12-05,133,1,1,0.1,Bank Transfer,Delivered
+10918,2025-12-05,224,26,8,0.0,Card,Delivered
+10244,2025-12-05,285,24,4,0.0,D17,Delivered
+10203,2025-12-05,194,8,2,0.1,Card,Delivered
+10634,2025-12-05,119,27,1,0.1,Card,Delivered
+12459,2025-12-05,31,14,3,0.0,D17,Delivered
+10416,2025-12-05,76,15,1,0.05,Bank Transfer,Delivered
+10035,2025-12-05,71,19,4,0.2,Card,Delivered
+12249,2025-12-06,232,21,5,0.2,Card,Delivered
+12483,2025-12-06,84,17,2,0.0,Card,Delivered
+12106,2025-12-06,259,10,6,0.15,D17,Cancelled
+12177,2025-12-06,139,17,2,0.1,D17,Delivered
+10712,2025-12-06,9,2,1,0.2,Cash on Delivery,Delivered
+11091,2025-12-06,204,10,2,0.0,Card,Delivered
+12119,2025-12-06,128,5,6,0.05,Cash on Delivery,Delivered
+10683,2025-12-06,114,18,5,0.0,Cash on Delivery,Delivered
+10869,2025-12-06,296,4,2,0.05,D17,Delivered
+12284,2025-12-07,188,24,8,0.0,D17,Delivered
+10303,2025-12-07,41,3,3,0.0,Cash on Delivery,Delivered
+11820,2025-12-07,207,26,8,0.1,Cash on Delivery,Delivered
+12397,2025-12-07,135,26,1,0.0,Card,Delivered
+10657,2025-12-07,65,11,4,0.2,D17,Returned
+10514,2025-12-07,124,17,4,0.0,Card,Delivered
+10677,2025-12-07,155,19,1,0.0,Card,Delivered
+12247,2025-12-07,255,26,2,0.0,D17,Delivered
+11907,2025-12-07,258,2,6,0.15,Cash on Delivery,Delivered
+10769,2025-12-07,261,14,1,0.15,Cash on Delivery,Delivered
+11645,2025-12-07,264,8,3,0.0,Cash on Delivery,Delivered
+10905,2025-12-07,92,15,1,0.05,Cash on Delivery,Delivered
+12045,2025-12-07,290,29,6,0.0,Card,Delivered
+12465,2025-12-07,288,12,1,0.05,D17,Delivered
+11977,2025-12-07,250,24,1,0.05,Cash on Delivery,Delivered
+10690,2025-12-08,226,13,1,0.15,Cash on Delivery,Delivered
+10448,2025-12-08,244,16,8,0.05,Cash on Delivery,Delivered
+10308,2025-12-08,174,3,1,0.15,Card,Delivered
+12160,2025-12-08,279,17,2,0.05,Card,Delivered
+11587,2025-12-08,238,24,2,0.0,Cash on Delivery,Cancelled
+10714,2025-12-08,292,4,5,0.1,Cash on Delivery,Delivered
+11510,2025-12-08,275,1,5,0.0,Cash on Delivery,Delivered
+10465,2025-12-08,205,27,1,0.1,Cash on Delivery,Delivered
+12343,2025-12-08,97,26,4,0.0,Cash on Delivery,Delivered
+10684,2025-12-08,47,26,1,0.0,Cash on Delivery,Delivered
+11596,2025-12-08,32,18,5,0.05,Cash on Delivery,Delivered
+12421,2025-12-08,251,25,8,0.0,Cash on Delivery,Delivered
+12262,2025-12-08,50,16,3,0.15,Cash on Delivery,Delivered
+11121,2025-12-08,289,27,4,0.15,Cash on Delivery,Returned
+11342,2025-12-08,77,13,8,0.2,Card,Cancelled
+10497,2025-12-09,67,16,8,0.1,Card,Delivered
+12348,2025-12-09,131,15,3,0.0,Cash on Delivery,Returned
+10285,2025-12-09,291,16,2,0.0,Card,Delivered
+12294,2025-12-09,156,24,8,0.05,Card,Delivered
+11791,2025-12-09,29,15,2,0.2,Cash on Delivery,Delivered
+10289,2025-12-09,84,28,2,0.15,Card,Cancelled
+11693,2025-12-09,81,13,8,0.05,Cash on Delivery,Delivered
+10606,2025-12-09,59,20,5,0.0,Cash on Delivery,Delivered
+11754,2025-12-09,116,2,6,0.0,D17,Returned
+11029,2025-12-09,225,24,2,0.15,Cash on Delivery,Delivered
+10551,2025-12-09,20,20,3,0.0,Cash on Delivery,Delivered
+11373,2025-12-09,55,14,3,0.15,Cash on Delivery,Delivered
+10814,2025-12-09,97,4,2,0.15,Cash on Delivery,Delivered
+10630,2025-12-09,208,18,4,0.0,D17,Delivered
+10818,2025-12-10,76,15,2,0.0,Cash on Delivery,Cancelled
+11357,2025-12-10,280,14,8,0.05,Cash on Delivery,Delivered
+12103,2025-12-10,38,30,5,0.0,Cash on Delivery,Delivered
+10163,2025-12-10,100,14,1,0.15,Card,Delivered
+11409,2025-12-10,86,18,5,0.05,Cash on Delivery,Delivered
+12487,2025-12-10,214,21,2,0.2,Cash on Delivery,Cancelled
+11415,2025-12-10,189,17,5,0.2,D17,Delivered
+11819,2025-12-10,245,7,1,0.05,Card,Delivered
+10539,2025-12-10,23,9,1,0.05,Bank Transfer,Delivered
+11295,2025-12-10,254,20,8,0.05,Bank Transfer,Delivered
+12372,2025-12-10,150,21,1,0.05,Bank Transfer,Delivered
+12170,2025-12-10,146,4,8,0.1,Cash on Delivery,Delivered
+10545,2025-12-11,139,15,8,0.0,D17,Delivered
+11910,2025-12-11,96,19,2,0.0,Card,Delivered
+11631,2025-12-11,154,16,2,0.2,D17,Delivered
+10341,2025-12-11,263,12,2,0.0,Cash on Delivery,Delivered
+10282,2025-12-11,119,26,4,0.0,Bank Transfer,Delivered
+12009,2025-12-11,165,6,6,0.0,Card,Returned
+11759,2025-12-11,224,25,2,0.2,Card,Delivered
+11776,2025-12-11,68,14,2,0.2,D17,Delivered
+11368,2025-12-11,61,22,4,0.0,Cash on Delivery,Delivered
+10212,2025-12-11,73,15,1,0.0,Card,Cancelled
+12342,2025-12-12,49,13,1,0.2,Cash on Delivery,Delivered
+11142,2025-12-12,261,23,1,0.15,D17,Delivered
+10847,2025-12-12,93,24,1,0.0,D17,Delivered
+11085,2025-12-12,225,30,1,0.2,Bank Transfer,Delivered
+11311,2025-12-12,282,6,1,0.15,Cash on Delivery,Delivered
+11022,2025-12-12,53,17,1,0.15,Card,Delivered
+12381,2025-12-12,67,12,2,0.1,D17,Cancelled
+10824,2025-12-12,89,11,5,0.1,Card,Cancelled
+11372,2025-12-12,222,6,5,0.1,D17,Delivered
+11927,2025-12-12,144,6,2,0.1,Cash on Delivery,Delivered
+11485,2025-12-12,257,20,2,0.1,Bank Transfer,Returned
+12268,2025-12-12,54,16,6,0.0,Card,Delivered
+12383,2025-12-13,148,9,8,0.0,Cash on Delivery,Delivered
+12032,2025-12-13,66,20,5,0.05,D17,Delivered
+10226,2025-12-13,182,14,3,0.05,Cash on Delivery,Delivered
+10025,2025-12-13,34,1,1,0.15,Card,Delivered
+10227,2025-12-13,13,18,2,0.15,Cash on Delivery,Delivered
+10206,2025-12-13,213,1,1,0.1,Bank Transfer,Delivered
+10845,2025-12-13,205,2,1,0.2,Card,Delivered
+11053,2025-12-13,15,12,2,0.15,Cash on Delivery,Delivered
+11944,2025-12-13,236,16,1,0.15,D17,Delivered
+11458,2025-12-13,197,30,3,0.2,Card,Delivered
+11472,2025-12-13,154,15,2,0.15,Card,Cancelled
+11681,2025-12-13,110,11,3,0.0,Card,Returned
+10686,2025-12-14,218,15,5,0.05,Cash on Delivery,Delivered
+11618,2025-12-14,145,17,3,0.1,Cash on Delivery,Delivered
+10566,2025-12-14,154,17,1,0.0,D17,Delivered
+11664,2025-12-14,148,16,6,0.0,Card,Delivered
+12128,2025-12-14,89,23,5,0.15,Card,Delivered
+11727,2025-12-14,83,7,2,0.0,Card,Delivered
+10042,2025-12-14,49,25,2,0.0,Cash on Delivery,Delivered
+10507,2025-12-14,17,18,5,0.05,Card,Delivered
+10421,2025-12-14,47,2,5,0.0,Cash on Delivery,Returned
+10267,2025-12-14,5,15,1,0.15,D17,Delivered
+12456,2025-12-15,109,16,1,0.05,Card,Delivered
+11492,2025-12-15,192,6,3,0.2,Bank Transfer,Delivered
+11231,2025-12-15,158,29,1,0.1,Card,Delivered
+11066,2025-12-15,95,26,1,0.2,Card,Delivered
+10591,2025-12-15,188,1,6,0.1,D17,Cancelled
+10682,2025-12-15,68,7,8,0.05,Card,Delivered
+12395,2025-12-15,11,16,4,0.15,Cash on Delivery,Delivered
+12067,2025-12-15,131,26,6,0.0,Cash on Delivery,Delivered
+11620,2025-12-15,252,20,2,0.0,Card,Delivered
+10074,2025-12-15,135,26,3,0.05,Bank Transfer,Delivered
+12436,2025-12-15,12,30,1,0.0,Card,Delivered
+10312,2025-12-15,261,14,8,0.0,Cash on Delivery,Delivered
+12362,2025-12-16,28,9,6,0.0,Card,Delivered
+12264,2025-12-16,85,9,2,0.1,Cash on Delivery,Delivered
+11145,2025-12-16,127,9,1,0.05,Card,Delivered
+10796,2025-12-16,175,28,3,0.0,Cash on Delivery,Delivered
+10112,2025-12-16,50,29,1,0.15,Cash on Delivery,Cancelled
+10570,2025-12-16,167,15,1,0.2,Cash on Delivery,Cancelled
+11655,2025-12-16,38,17,8,0.2,Card,Delivered
+10191,2025-12-16,91,3,2,0.2,D17,Delivered
+10506,2025-12-16,286,18,1,0.2,D17,Delivered
+10350,2025-12-17,94,13,5,0.15,D17,Delivered
+11260,2025-12-17,57,7,5,0.0,Cash on Delivery,Delivered
+10185,2025-12-17,200,4,1,0.0,D17,Delivered
+10485,2025-12-17,261,7,6,0.1,Cash on Delivery,Delivered
+12236,2025-12-17,254,23,8,0.15,Card,Returned
+12259,2025-12-17,278,27,8,0.0,Card,Delivered
+10050,2025-12-17,151,14,5,0.1,Card,Delivered
+11382,2025-12-17,229,13,1,0.05,Cash on Delivery,Delivered
+11494,2025-12-18,5,20,4,0.0,D17,Delivered
+11169,2025-12-18,262,12,6,0.05,Cash on Delivery,Cancelled
+10091,2025-12-18,112,11,1,0.15,Bank Transfer,Cancelled
+10157,2025-12-18,157,2,4,0.2,Card,Delivered
+11400,2025-12-18,8,10,4,0.1,Cash on Delivery,Cancelled
+11249,2025-12-18,194,25,4,0.1,Cash on Delivery,Delivered
+10449,2025-12-18,76,15,5,0.2,Card,Delivered
+10260,2025-12-18,247,17,1,0.0,Card,Delivered
+10315,2025-12-18,97,18,1,0.05,Cash on Delivery,Cancelled
+10295,2025-12-18,76,17,4,0.2,D17,Delivered
+10909,2025-12-19,41,23,4,0.0,Cash on Delivery,Delivered
+11328,2025-12-19,90,9,5,0.0,Card,Delivered
+12114,2025-12-19,239,28,3,0.2,Cash on Delivery,Delivered
+10135,2025-12-19,83,3,1,0.2,Bank Transfer,Delivered
+11139,2025-12-19,83,17,4,0.15,Cash on Delivery,Delivered
+10411,2025-12-19,127,18,2,0.15,Cash on Delivery,Delivered
+11069,2025-12-19,118,23,3,0.05,Card,Delivered
+10901,2025-12-20,41,13,1,0.0,Cash on Delivery,Delivered
+10790,2025-12-20,83,14,4,0.0,Card,Cancelled
+11851,2025-12-20,198,16,4,0.0,Card,Delivered
+11143,2025-12-20,20,29,1,0.0,Card,Delivered
+10604,2025-12-20,46,23,6,0.1,D17,Delivered
+11974,2025-12-20,253,23,3,0.1,Card,Delivered
+11122,2025-12-20,264,19,2,0.2,Cash on Delivery,Returned
+12212,2025-12-20,63,21,2,0.0,Cash on Delivery,Delivered
+11028,2025-12-20,12,1,1,0.0,Card,Delivered
+10757,2025-12-20,42,21,5,0.0,Cash on Delivery,Delivered
+12150,2025-12-20,133,8,1,0.15,Bank Transfer,Delivered
+10861,2025-12-20,100,23,1,0.0,Cash on Delivery,Delivered
+10747,2025-12-20,26,17,8,0.05,Cash on Delivery,Cancelled
+10126,2025-12-20,75,14,4,0.05,Card,Delivered
+11782,2025-12-21,137,30,4,0.05,D17,Delivered
+10897,2025-12-21,222,27,2,0.15,Cash on Delivery,Delivered
+12415,2025-12-21,162,29,8,0.0,Cash on Delivery,Delivered
+11172,2025-12-21,293,26,3,0.0,Card,Delivered
+11614,2025-12-21,227,6,2,0.0,Cash on Delivery,Delivered
+12013,2025-12-21,17,14,1,0.15,D17,Delivered
+10998,2025-12-21,187,13,8,0.0,Cash on Delivery,Delivered
+11970,2025-12-21,271,14,4,0.0,Card,Delivered
+11630,2025-12-21,95,24,1,0.0,Card,Delivered
+10041,2025-12-21,51,21,1,0.1,Bank Transfer,Delivered
+11355,2025-12-21,157,2,6,0.05,Bank Transfer,Delivered
+11113,2025-12-21,112,18,4,0.15,Cash on Delivery,Delivered
+11658,2025-12-21,164,18,5,0.0,D17,Delivered
+11757,2025-12-21,31,24,8,0.0,Cash on Delivery,Cancelled
+11462,2025-12-21,160,13,1,0.2,Cash on Delivery,Delivered
+11722,2025-12-21,260,20,1,0.0,Bank Transfer,Delivered
+10941,2025-12-21,260,13,4,0.2,D17,Delivered
+11690,2025-12-22,21,16,1,0.0,Cash on Delivery,Delivered
+11975,2025-12-22,111,10,2,0.15,Card,Cancelled
+10695,2025-12-22,145,18,1,0.0,Card,Delivered
+10508,2025-12-22,175,16,2,0.15,D17,Delivered
+11747,2025-12-22,6,16,1,0.15,Card,Delivered
+12031,2025-12-22,155,26,5,0.0,Cash on Delivery,Delivered
+12335,2025-12-22,57,14,4,0.0,Card,Delivered
+11516,2025-12-23,239,14,6,0.0,Cash on Delivery,Delivered
+11563,2025-12-23,260,6,3,0.0,Card,Returned
+11220,2025-12-23,274,16,4,0.2,Cash on Delivery,Delivered
+12144,2025-12-23,208,23,8,0.0,D17,Returned
+10022,2025-12-23,107,5,8,0.1,Cash on Delivery,Delivered
+11810,2025-12-23,232,27,2,0.0,Cash on Delivery,Delivered
+11545,2025-12-24,255,10,8,0.0,Card,Delivered
+10089,2025-12-24,194,20,1,0.0,Cash on Delivery,Delivered
+10043,2025-12-24,299,6,1,0.0,Card,Returned
+10131,2025-12-24,267,4,1,0.05,Cash on Delivery,Delivered
+10286,2025-12-24,274,12,4,0.2,D17,Delivered
+11105,2025-12-24,21,6,6,0.0,D17,Delivered
+11853,2025-12-24,150,20,2,0.0,Card,Delivered
+10105,2025-12-24,272,28,6,0.2,Cash on Delivery,Delivered
+11229,2025-12-24,13,5,1,0.0,Cash on Delivery,Delivered
+11697,2025-12-24,166,17,5,0.0,Cash on Delivery,Delivered
+11534,2025-12-24,234,17,4,0.0,Cash on Delivery,Delivered
+10698,2025-12-25,1,12,1,0.1,Cash on Delivery,Delivered
+12131,2025-12-25,250,26,5,0.15,Bank Transfer,Delivered
+10643,2025-12-25,266,28,5,0.2,Card,Delivered
+11481,2025-12-25,233,11,1,0.0,D17,Delivered
+11354,2025-12-25,23,7,6,0.1,Cash on Delivery,Delivered
+12080,2025-12-25,2,27,1,0.05,Card,Delivered
+10401,2025-12-25,257,19,4,0.0,Bank Transfer,Delivered
+12298,2025-12-25,51,13,1,0.15,Cash on Delivery,Delivered
+10374,2025-12-25,129,19,2,0.1,Bank Transfer,Returned
+10054,2025-12-26,201,15,1,0.0,D17,Delivered
+11451,2025-12-26,218,16,2,0.2,Cash on Delivery,Delivered
+10830,2025-12-26,76,11,3,0.0,Cash on Delivery,Delivered
+11349,2025-12-26,172,13,8,0.0,Cash on Delivery,Returned
+12145,2025-12-26,225,1,2,0.0,Card,Delivered
+10481,2025-12-26,232,7,5,0.05,Cash on Delivery,Delivered
+11253,2025-12-26,143,24,1,0.05,Card,Delivered
+10584,2025-12-26,229,8,8,0.15,Cash on Delivery,Delivered
+10802,2025-12-26,140,16,6,0.0,Card,Delivered
+12499,2025-12-26,41,28,1,0.0,Bank Transfer,Delivered
+10059,2025-12-26,299,17,4,0.0,Cash on Delivery,Delivered
+10968,2025-12-26,250,10,4,0.0,Card,Delivered
+11425,2025-12-26,34,6,4,0.05,D17,Cancelled
+11659,2025-12-26,100,10,6,0.0,Card,Delivered
+10565,2025-12-26,48,1,2,0.0,Cash on Delivery,Delivered
+12229,2025-12-26,194,15,3,0.0,Cash on Delivery,Delivered
+11999,2025-12-26,214,12,3,0.1,Card,Cancelled
+11517,2025-12-27,18,25,1,0.0,Cash on Delivery,Delivered
+11405,2025-12-27,229,13,4,0.15,D17,Delivered
+10784,2025-12-27,26,13,3,0.0,Cash on Delivery,Delivered
+10921,2025-12-27,46,22,1,0.0,Cash on Delivery,Cancelled
+10056,2025-12-27,188,26,1,0.0,Card,Delivered
+11723,2025-12-27,219,28,6,0.2,Cash on Delivery,Delivered
+11718,2025-12-27,165,14,3,0.1,D17,Cancelled
+10543,2025-12-27,291,17,2,0.1,Cash on Delivery,Delivered
+12353,2025-12-27,277,22,1,0.0,Cash on Delivery,Delivered
+10925,2025-12-27,146,1,2,0.1,D17,Delivered
+12238,2025-12-27,201,17,3,0.2,Card,Delivered
+10209,2025-12-27,3,10,2,0.2,Card,Delivered
+10215,2025-12-27,155,13,2,0.0,Card,Delivered
+11030,2025-12-27,182,15,2,0.2,D17,Delivered
+10396,2025-12-27,120,11,1,0.0,Cash on Delivery,Delivered
+11333,2025-12-27,178,25,1,0.0,Cash on Delivery,Delivered
+12304,2025-12-27,276,26,1,0.0,Cash on Delivery,Delivered
+11007,2025-12-27,40,13,1,0.05,D17,Delivered
+10354,2025-12-28,241,13,6,0.2,D17,Returned
+12316,2025-12-28,123,19,2,0.0,Bank Transfer,Delivered
+10828,2025-12-28,263,15,4,0.2,Bank Transfer,Delivered
+12077,2025-12-28,164,24,3,0.05,Card,Delivered
+11796,2025-12-28,32,30,5,0.0,Card,Delivered
+10113,2025-12-28,262,12,1,0.05,Card,Delivered
+11158,2025-12-28,39,2,1,0.0,D17,Delivered
+10366,2025-12-28,40,9,1,0.0,Card,Cancelled
+10384,2025-12-28,158,10,1,0.0,Card,Delivered
+10273,2025-12-28,155,20,2,0.2,Cash on Delivery,Delivered
+10899,2025-12-28,254,27,8,0.05,Card,Delivered
+10355,2025-12-28,272,15,3,0.05,Card,Delivered
+12266,2025-12-28,226,18,4,0.0,Card,Delivered
